@@ -6,3 +6,4 @@
 2025-09-11T10:31:25 -0400 test: cubre caso borde
 2025-09-11T10:35:10 -0400 style: formatea
 2025-09-11T10:52:43 -0400 refactor: extrae funcion
+2025-09-11T10:55:14 -0400 revert cambio anterior
