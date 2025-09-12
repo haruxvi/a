@@ -9,3 +9,4 @@
 2025-09-11T10:55:14 -0400 revert cambio anterior
 2025-09-12T11:01:50 -0400 revert cambio anterior
 2025-09-12T11:28:31 -0400 chore: actualiza deps
+2025-09-12T11:43:02 -0400 style: formatea
