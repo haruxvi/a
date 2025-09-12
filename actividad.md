@@ -12,3 +12,4 @@
 2025-09-12T11:43:02 -0400 style: formatea
 2025-09-12T11:50:16 -0400 fix: race condition
 2025-09-12T12:22:35 -0400 fix: manejo de error
+2025-09-12T12:37:48 -0400 wip
