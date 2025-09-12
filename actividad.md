@@ -13,3 +13,4 @@
 2025-09-12T11:50:16 -0400 fix: race condition
 2025-09-12T12:22:35 -0400 fix: manejo de error
 2025-09-12T12:37:48 -0400 wip
+2025-09-12T13:09:18 -0400 revert cambio anterior
