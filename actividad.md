@@ -19,3 +19,4 @@
 2025-09-15T09:13:28 -0400 fix: typo
 2025-09-15T09:37:42 -0400 docs: actualiza README
 2025-09-15T10:06:52 -0400 fix: typo
+2025-09-15T10:19:57 -0400 chore: borra codigo muerto
