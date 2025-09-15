@@ -15,3 +15,4 @@
 2025-09-12T12:37:48 -0400 wip
 2025-09-12T13:09:18 -0400 revert cambio anterior
 2025-09-12T13:25:05 -0400 fix: manejo de error
+2025-09-15T09:10:57 -0400 feat: agrega endpoint
