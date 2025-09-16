@@ -25,3 +25,4 @@
 2025-09-16T11:26:49 -0400 refactor: limpia helpers
 2025-09-16T12:04:39 -0400 style: formatea
 2025-09-16T12:42:03 -0400 fix: ajusta margenes
+2025-09-16T13:03:06 -0400 feat: agrega endpoint
