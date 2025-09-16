@@ -22,3 +22,4 @@
 2025-09-15T10:19:57 -0400 chore: borra codigo muerto
 2025-09-16T10:34:18 -0400 test: cubre caso borde
 2025-09-16T11:04:26 -0400 perf: evita query extra
+2025-09-16T11:26:49 -0400 refactor: limpia helpers
