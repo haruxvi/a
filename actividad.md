@@ -27,3 +27,4 @@
 2025-09-16T12:42:03 -0400 fix: ajusta margenes
 2025-09-16T13:03:06 -0400 feat: agrega endpoint
 2025-09-16T13:07:40 -0400 wip
+2025-09-16T13:18:21 -0400 chore: renombra variables
