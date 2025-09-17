@@ -30,3 +30,4 @@
 2025-09-16T13:18:21 -0400 chore: renombra variables
 2025-09-17T17:21:35 -0400 feat: soporte para filtros
 2025-09-17T17:58:07 -0400 fix: ajusta margenes
+2025-09-17T18:16:56 -0400 test: cubre caso borde
