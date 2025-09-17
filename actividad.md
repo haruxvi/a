@@ -31,3 +31,4 @@
 2025-09-17T17:21:35 -0400 feat: soporte para filtros
 2025-09-17T17:58:07 -0400 fix: ajusta margenes
 2025-09-17T18:16:56 -0400 test: cubre caso borde
+2025-09-17T18:54:30 -0400 refactor: extrae funcion
