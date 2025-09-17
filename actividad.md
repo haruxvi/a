@@ -28,3 +28,4 @@
 2025-09-16T13:03:06 -0400 feat: agrega endpoint
 2025-09-16T13:07:40 -0400 wip
 2025-09-16T13:18:21 -0400 chore: renombra variables
+2025-09-17T17:21:35 -0400 feat: soporte para filtros
