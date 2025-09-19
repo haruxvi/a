@@ -38,3 +38,4 @@
 2025-09-19T13:18:05 -0400 feat: soporte para filtros
 2025-09-19T13:47:44 -0400 revert cambio anterior
 2025-09-19T14:07:30 -0400 style: formatea
+2025-09-19T14:44:46 -0400 fix: corrige validacion
