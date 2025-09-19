@@ -41,3 +41,4 @@
 2025-09-19T14:44:46 -0400 fix: corrige validacion
 2025-09-19T15:22:11 -0400 fix: typo
 2025-09-19T15:58:34 -0400 fix: manejo de error
+2025-09-19T16:20:16 -0400 chore: actualiza deps
