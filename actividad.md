@@ -39,3 +39,4 @@
 2025-09-19T13:47:44 -0400 revert cambio anterior
 2025-09-19T14:07:30 -0400 style: formatea
 2025-09-19T14:44:46 -0400 fix: corrige validacion
+2025-09-19T15:22:11 -0400 fix: typo
