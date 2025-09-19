@@ -35,3 +35,4 @@
 2025-09-19T12:13:50 -0400 fix: ajusta margenes
 2025-09-19T12:17:11 -0400 style: formatea
 2025-09-19T12:48:47 -0400 feat: soporte para filtros
+2025-09-19T13:18:05 -0400 feat: soporte para filtros
