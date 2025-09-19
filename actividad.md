@@ -33,3 +33,4 @@
 2025-09-17T18:16:56 -0400 test: cubre caso borde
 2025-09-17T18:54:30 -0400 refactor: extrae funcion
 2025-09-19T12:13:50 -0400 fix: ajusta margenes
+2025-09-19T12:17:11 -0400 style: formatea
