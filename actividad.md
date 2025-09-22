@@ -44,3 +44,4 @@
 2025-09-19T16:20:16 -0400 chore: actualiza deps
 2025-09-19T16:28:14 -0400 fix: race condition
 2025-09-22T11:20:26 -0400 fix: typo
+2025-09-22T11:45:51 -0400 refactor: limpia helpers
