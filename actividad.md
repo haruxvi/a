@@ -45,3 +45,4 @@
 2025-09-19T16:28:14 -0400 fix: race condition
 2025-09-22T11:20:26 -0400 fix: typo
 2025-09-22T11:45:51 -0400 refactor: limpia helpers
+2025-09-22T12:07:17 -0400 test: cubre caso borde
