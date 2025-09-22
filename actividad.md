@@ -48,3 +48,4 @@
 2025-09-22T12:07:17 -0400 test: cubre caso borde
 2025-09-22T12:31:10 -0400 chore: borra codigo muerto
 2025-09-22T12:58:02 -0400 fix: race condition
+2025-09-22T13:27:56 -0400 fix: corrige validacion
