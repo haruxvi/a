@@ -54,3 +54,4 @@
 2025-09-23T17:55:32 -0400 feat: soporte para filtros
 2025-09-23T18:21:07 -0400 fix: race condition
 2025-09-23T18:53:07 -0400 feat: agrega endpoint
+2025-09-23T19:13:36 -0400 chore: actualiza deps
