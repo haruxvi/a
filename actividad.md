@@ -52,3 +52,4 @@
 2025-09-23T17:24:13 -0400 style: formatea
 2025-09-23T17:43:54 -0400 fix: race condition
 2025-09-23T17:55:32 -0400 feat: soporte para filtros
+2025-09-23T18:21:07 -0400 fix: race condition
