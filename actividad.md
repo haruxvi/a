@@ -55,3 +55,4 @@
 2025-09-23T18:21:07 -0400 fix: race condition
 2025-09-23T18:53:07 -0400 feat: agrega endpoint
 2025-09-23T19:13:36 -0400 chore: actualiza deps
+2025-09-23T19:44:00 -0400 chore: borra codigo muerto
