@@ -50,3 +50,4 @@
 2025-09-22T12:58:02 -0400 fix: race condition
 2025-09-22T13:27:56 -0400 fix: corrige validacion
 2025-09-23T17:24:13 -0400 style: formatea
+2025-09-23T17:43:54 -0400 fix: race condition
