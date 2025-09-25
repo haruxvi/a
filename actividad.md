@@ -58,3 +58,4 @@
 2025-09-23T19:44:00 -0400 chore: borra codigo muerto
 2025-09-24T22:40:30 -0400 fix: corrige validacion
 2025-09-24T22:45:26 -0400 fix: race condition
+2025-09-24T22:53:17 -0400 perf: evita query extra
