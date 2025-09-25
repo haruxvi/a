@@ -62,3 +62,4 @@
 2025-09-24T23:08:23 -0400 fix: manejo de error
 2025-09-24T23:47:09 -0400 fix: ajusta margenes
 2025-09-24T23:55:11 -0400 fix: null check
+2025-09-24T23:58:25 -0400 fix: typo
