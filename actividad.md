@@ -65,3 +65,4 @@
 2025-09-24T23:58:25 -0400 fix: typo
 2025-09-25T17:10:02 -0400 fix: manejo de error
 2025-09-25T17:20:58 -0400 chore: borra codigo muerto
+2025-09-27T17:30:57 -0400 fix: ajusta margenes
