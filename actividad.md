@@ -69,3 +69,4 @@
 2025-09-27T17:51:36 -0400 chore: borra codigo muerto
 2025-09-27T17:57:52 -0400 fix: null check
 2025-09-29T09:13:13 -0400 chore: actualiza deps
+2025-09-29T09:43:20 -0400 feat: soporte para filtros
