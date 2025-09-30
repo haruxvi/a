@@ -73,3 +73,4 @@
 2025-09-30T15:41:14 -0400 docs: actualiza README
 2025-09-30T16:19:59 -0400 chore: renombra variables
 2025-09-30T16:41:29 -0400 chore: renombra variables
+2025-09-30T16:52:22 -0400 fix: null check
