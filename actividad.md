@@ -70,3 +70,4 @@
 2025-09-27T17:57:52 -0400 fix: null check
 2025-09-29T09:13:13 -0400 chore: actualiza deps
 2025-09-29T09:43:20 -0400 feat: soporte para filtros
+2025-09-30T15:41:14 -0400 docs: actualiza README
