@@ -77,3 +77,4 @@
 2025-09-30T17:19:49 -0400 feat: agrega endpoint
 2025-10-02T20:34:10 -0400 style: formatea
 2025-10-02T20:50:20 -0400 fix: race condition
+2025-10-03T15:10:37 -0400 fix: ajusta margenes
