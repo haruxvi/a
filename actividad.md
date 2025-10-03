@@ -75,3 +75,4 @@
 2025-09-30T16:41:29 -0400 chore: renombra variables
 2025-09-30T16:52:22 -0400 fix: null check
 2025-09-30T17:19:49 -0400 feat: agrega endpoint
+2025-10-02T20:34:10 -0400 style: formatea
