@@ -78,3 +78,4 @@
 2025-10-02T20:34:10 -0400 style: formatea
 2025-10-02T20:50:20 -0400 fix: race condition
 2025-10-03T15:10:37 -0400 fix: ajusta margenes
+2025-10-06T15:23:36 -0400 fix: ajusta margenes
