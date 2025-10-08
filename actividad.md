@@ -81,3 +81,4 @@
 2025-10-06T15:23:36 -0400 fix: ajusta margenes
 2025-10-06T15:57:01 -0400 docs: actualiza README
 2025-10-08T15:12:42 -0400 feat: soporte para filtros
+2025-10-08T15:42:04 -0400 fix: corrige validacion
