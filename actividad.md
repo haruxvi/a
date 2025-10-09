@@ -87,3 +87,4 @@
 2025-10-09T11:42:45 -0400 test: cubre caso borde
 2025-10-09T12:02:46 -0400 fix: typo
 2025-10-09T12:15:09 -0400 wip
+2025-10-09T12:22:48 -0400 perf: evita query extra
