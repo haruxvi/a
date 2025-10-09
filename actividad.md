@@ -84,3 +84,4 @@
 2025-10-08T15:42:04 -0400 fix: corrige validacion
 2025-10-08T16:14:53 -0400 test: cubre caso borde
 2025-10-08T16:17:25 -0400 fix: race condition
+2025-10-09T11:42:45 -0400 test: cubre caso borde
