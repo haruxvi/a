@@ -90,3 +90,4 @@
 2025-10-09T12:22:48 -0400 perf: evita query extra
 2025-10-14T20:07:39 -0400 style: formatea
 2025-10-14T20:11:48 -0400 chore: actualiza deps
+2025-10-14T20:47:38 -0400 fix: ajusta margenes
