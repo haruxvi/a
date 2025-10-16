@@ -91,3 +91,4 @@
 2025-10-14T20:07:39 -0400 style: formatea
 2025-10-14T20:11:48 -0400 chore: actualiza deps
 2025-10-14T20:47:38 -0400 fix: ajusta margenes
+2025-10-15T22:17:45 -0400 fix: corrige validacion
