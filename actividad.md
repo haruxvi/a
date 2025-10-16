@@ -95,3 +95,4 @@
 2025-10-16T16:21:47 -0400 feat: soporte para filtros
 2025-10-16T16:25:14 -0400 fix: ajusta margenes
 2025-10-16T17:04:50 -0400 fix: ajusta margenes
+2025-10-16T17:42:09 -0400 perf: evita query extra
