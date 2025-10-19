@@ -100,3 +100,4 @@
 2025-10-17T22:07:52 -0400 fix: corrige validacion
 2025-10-18T20:40:02 -0400 feat: agrega endpoint
 2025-10-19T13:12:58 -0400 feat: soporte para filtros
+2025-10-19T13:19:42 -0400 fix: race condition
