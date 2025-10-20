@@ -104,3 +104,4 @@
 2025-10-19T13:30:11 -0400 fix: ajusta margenes
 2025-10-20T10:00:38 -0400 fix: manejo de error
 2025-10-20T10:27:48 -0400 docs: actualiza README
+2025-10-20T10:32:36 -0400 chore: renombra variables
