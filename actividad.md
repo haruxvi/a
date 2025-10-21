@@ -106,3 +106,4 @@
 2025-10-20T10:27:48 -0400 docs: actualiza README
 2025-10-20T10:32:36 -0400 chore: renombra variables
 2025-10-20T11:11:26 -0400 chore: borra codigo muerto
+2025-10-21T11:37:32 -0400 fix: manejo de error
