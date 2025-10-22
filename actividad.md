@@ -109,3 +109,4 @@
 2025-10-21T11:37:32 -0400 fix: manejo de error
 2025-10-22T09:20:18 -0400 refactor: extrae funcion
 2025-10-22T09:25:53 -0400 refactor: limpia helpers
+2025-10-22T09:38:13 -0400 test: cubre caso borde
