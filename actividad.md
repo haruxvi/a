@@ -107,3 +107,4 @@
 2025-10-20T10:32:36 -0400 chore: renombra variables
 2025-10-20T11:11:26 -0400 chore: borra codigo muerto
 2025-10-21T11:37:32 -0400 fix: manejo de error
+2025-10-22T09:20:18 -0400 refactor: extrae funcion
