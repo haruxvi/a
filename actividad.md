@@ -112,3 +112,4 @@
 2025-10-22T09:38:13 -0400 test: cubre caso borde
 2025-10-22T10:00:51 -0400 test: cubre caso borde
 2025-10-23T22:39:53 -0400 fix: typo
+2025-10-23T23:09:48 -0400 fix: manejo de error
