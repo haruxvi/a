@@ -114,3 +114,4 @@
 2025-10-23T22:39:53 -0400 fix: typo
 2025-10-23T23:09:48 -0400 fix: manejo de error
 2025-10-23T23:44:12 -0400 fix: race condition
+2025-10-24T21:13:53 -0400 docs: actualiza README
