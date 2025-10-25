@@ -117,3 +117,4 @@
 2025-10-24T21:13:53 -0400 docs: actualiza README
 2025-10-24T21:20:17 -0400 chore: borra codigo muerto
 2025-10-24T21:29:52 -0400 fix: race condition
+2025-10-24T22:09:45 -0400 fix: ajusta margenes
