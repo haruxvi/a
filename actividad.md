@@ -122,3 +122,4 @@
 2025-10-26T18:06:45 -0400 perf: evita query extra
 2025-10-26T18:24:09 -0400 chore: actualiza deps
 2025-10-26T18:50:40 -0400 fix: race condition
+2025-10-26T19:20:29 -0400 chore: renombra variables
