@@ -119,3 +119,4 @@
 2025-10-24T21:29:52 -0400 fix: race condition
 2025-10-24T22:09:45 -0400 fix: ajusta margenes
 2025-10-24T22:20:07 -0400 chore: actualiza deps
+2025-10-26T18:06:45 -0400 perf: evita query extra
