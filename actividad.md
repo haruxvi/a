@@ -129,3 +129,4 @@
 2025-10-27T09:20:04 -0400 fix: null check
 2025-10-27T09:58:23 -0400 revert cambio anterior
 2025-10-27T10:03:48 -0400 wip
+2025-10-27T10:08:28 -0400 feat: soporte para filtros
