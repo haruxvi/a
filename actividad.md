@@ -124,3 +124,4 @@
 2025-10-26T18:50:40 -0400 fix: race condition
 2025-10-26T19:20:29 -0400 chore: renombra variables
 2025-10-26T19:36:10 -0400 wip
+2025-10-26T20:14:35 -0400 chore: borra codigo muerto
