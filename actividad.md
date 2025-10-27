@@ -126,3 +126,4 @@
 2025-10-26T19:36:10 -0400 wip
 2025-10-26T20:14:35 -0400 chore: borra codigo muerto
 2025-10-27T09:08:47 -0400 fix: null check
+2025-10-27T09:20:04 -0400 fix: null check
