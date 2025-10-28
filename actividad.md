@@ -134,3 +134,4 @@
 2025-10-28T11:09:19 -0400 chore: borra codigo muerto
 2025-10-28T11:17:51 -0400 revert cambio anterior
 2025-10-28T11:47:58 -0400 style: formatea
+2025-10-28T12:20:50 -0400 feat: agrega endpoint
