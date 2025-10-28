@@ -131,3 +131,4 @@
 2025-10-27T10:03:48 -0400 wip
 2025-10-27T10:08:28 -0400 feat: soporte para filtros
 2025-10-28T10:45:49 -0400 refactor: limpia helpers
+2025-10-28T11:09:19 -0400 chore: borra codigo muerto
