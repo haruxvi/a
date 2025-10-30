@@ -139,3 +139,4 @@
 2025-10-28T13:06:42 -0400 fix: ajusta margenes
 2025-10-29T21:04:01 -0400 fix: typo
 2025-10-29T21:09:54 -0400 chore: actualiza deps
+2025-10-29T21:33:44 -0400 feat: agrega endpoint
