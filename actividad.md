@@ -138,3 +138,4 @@
 2025-10-28T12:29:25 -0400 fix: typo
 2025-10-28T13:06:42 -0400 fix: ajusta margenes
 2025-10-29T21:04:01 -0400 fix: typo
+2025-10-29T21:09:54 -0400 chore: actualiza deps
