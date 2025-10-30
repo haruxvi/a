@@ -141,3 +141,4 @@
 2025-10-29T21:09:54 -0400 chore: actualiza deps
 2025-10-29T21:33:44 -0400 feat: agrega endpoint
 2025-10-29T21:45:06 -0400 test: cubre caso borde
+2025-10-29T22:09:25 -0400 refactor: limpia helpers
