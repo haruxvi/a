@@ -137,3 +137,4 @@
 2025-10-28T12:20:50 -0400 feat: agrega endpoint
 2025-10-28T12:29:25 -0400 fix: typo
 2025-10-28T13:06:42 -0400 fix: ajusta margenes
+2025-10-29T21:04:01 -0400 fix: typo
