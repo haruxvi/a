@@ -145,3 +145,4 @@
 2025-10-29T22:21:26 -0400 test: cubre caso borde
 2025-10-30T16:39:36 -0400 style: formatea
 2025-10-30T17:14:25 -0400 refactor: limpia helpers
+2025-10-30T17:28:38 -0400 fix: manejo de error
