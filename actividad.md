@@ -151,3 +151,4 @@
 2025-10-31T21:09:30 -0400 chore: renombra variables
 2025-10-31T21:34:45 -0400 style: formatea
 2025-10-31T21:40:49 -0400 fix: manejo de error
+2025-10-31T22:09:42 -0400 style: formatea
