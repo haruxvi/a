@@ -149,3 +149,4 @@
 2025-10-30T17:48:25 -0400 fix: corrige validacion
 2025-10-31T20:35:05 -0400 test: cubre caso borde
 2025-10-31T21:09:30 -0400 chore: renombra variables
+2025-10-31T21:34:45 -0400 style: formatea
