@@ -147,3 +147,4 @@
 2025-10-30T17:14:25 -0400 refactor: limpia helpers
 2025-10-30T17:28:38 -0400 fix: manejo de error
 2025-10-30T17:48:25 -0400 fix: corrige validacion
+2025-10-31T20:35:05 -0400 test: cubre caso borde
