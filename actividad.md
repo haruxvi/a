@@ -156,3 +156,4 @@
 2025-10-31T22:31:07 -0400 feat: soporte para filtros
 2025-11-02T16:38:05 -0400 docs: actualiza README
 2025-11-02T17:14:44 -0400 feat: soporte para filtros
+2025-11-02T17:33:16 -0400 fix: corrige validacion
