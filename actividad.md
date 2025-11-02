@@ -154,3 +154,4 @@
 2025-10-31T22:09:42 -0400 style: formatea
 2025-10-31T22:17:17 -0400 fix: ajusta margenes
 2025-10-31T22:31:07 -0400 feat: soporte para filtros
+2025-11-02T16:38:05 -0400 docs: actualiza README
