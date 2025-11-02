@@ -159,3 +159,4 @@
 2025-11-02T17:33:16 -0400 fix: corrige validacion
 2025-11-02T17:48:13 -0400 perf: evita query extra
 2025-11-02T18:02:34 -0400 fix: typo
+2025-11-02T18:14:31 -0400 wip
