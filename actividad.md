@@ -162,3 +162,4 @@
 2025-11-02T18:14:31 -0400 wip
 2025-11-05T21:03:47 -0400 fix: ajusta margenes
 2025-11-05T21:30:57 -0400 fix: null check
+2025-11-05T21:53:37 -0400 docs: actualiza README
