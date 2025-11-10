@@ -167,3 +167,4 @@
 2025-11-07T11:36:55 -0400 chore: actualiza deps
 2025-11-10T16:38:18 -0400 revert cambio anterior
 2025-11-10T17:13:02 -0400 fix: race condition
+2025-11-10T17:26:46 -0400 refactor: limpia helpers
