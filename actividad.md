@@ -165,3 +165,4 @@
 2025-11-05T21:53:37 -0400 docs: actualiza README
 2025-11-06T21:18:55 -0400 revert cambio anterior
 2025-11-07T11:36:55 -0400 chore: actualiza deps
+2025-11-10T16:38:18 -0400 revert cambio anterior
