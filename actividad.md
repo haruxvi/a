@@ -174,3 +174,4 @@
 2025-11-12T10:23:42 -0400 fix: ajusta margenes
 2025-11-12T10:38:45 -0400 chore: actualiza deps
 2025-11-12T10:43:17 -0400 revert cambio anterior
+2025-11-12T11:22:12 -0400 feat: agrega endpoint
