@@ -173,3 +173,4 @@
 2025-11-12T10:11:34 -0400 style: formatea
 2025-11-12T10:23:42 -0400 fix: ajusta margenes
 2025-11-12T10:38:45 -0400 chore: actualiza deps
+2025-11-12T10:43:17 -0400 revert cambio anterior
