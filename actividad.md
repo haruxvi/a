@@ -169,3 +169,4 @@
 2025-11-10T17:13:02 -0400 fix: race condition
 2025-11-10T17:26:46 -0400 refactor: limpia helpers
 2025-11-12T09:23:58 -0400 fix: race condition
+2025-11-12T09:54:49 -0400 perf: evita query extra
