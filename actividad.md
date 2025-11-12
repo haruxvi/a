@@ -178,3 +178,4 @@
 2025-11-12T11:32:19 -0400 feat: soporte para filtros
 2025-11-12T12:06:37 -0400 refactor: limpia helpers
 2025-11-12T12:09:51 -0400 test: cubre caso borde
+2025-11-12T12:29:16 -0400 style: formatea
