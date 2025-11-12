@@ -175,3 +175,4 @@
 2025-11-12T10:38:45 -0400 chore: actualiza deps
 2025-11-12T10:43:17 -0400 revert cambio anterior
 2025-11-12T11:22:12 -0400 feat: agrega endpoint
+2025-11-12T11:32:19 -0400 feat: soporte para filtros
