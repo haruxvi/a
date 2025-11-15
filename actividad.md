@@ -189,3 +189,4 @@
 2025-11-15T17:53:32 -0400 feat: soporte para filtros
 2025-11-15T18:08:26 -0400 fix: ajusta margenes
 2025-11-15T18:16:11 -0400 chore: borra codigo muerto
+2025-11-15T18:45:12 -0400 style: formatea
