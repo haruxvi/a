@@ -186,3 +186,4 @@
 2025-11-12T14:37:59 -0400 style: formatea
 2025-11-15T17:14:13 -0400 feat: agrega endpoint
 2025-11-15T17:32:00 -0400 perf: evita query extra
+2025-11-15T17:53:32 -0400 feat: soporte para filtros
