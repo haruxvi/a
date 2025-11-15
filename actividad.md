@@ -187,3 +187,4 @@
 2025-11-15T17:14:13 -0400 feat: agrega endpoint
 2025-11-15T17:32:00 -0400 perf: evita query extra
 2025-11-15T17:53:32 -0400 feat: soporte para filtros
+2025-11-15T18:08:26 -0400 fix: ajusta margenes
