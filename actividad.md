@@ -185,3 +185,4 @@
 2025-11-12T14:21:07 -0400 style: formatea
 2025-11-12T14:37:59 -0400 style: formatea
 2025-11-15T17:14:13 -0400 feat: agrega endpoint
+2025-11-15T17:32:00 -0400 perf: evita query extra
