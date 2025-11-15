@@ -184,3 +184,4 @@
 2025-11-12T14:06:26 -0400 test: cubre caso borde
 2025-11-12T14:21:07 -0400 style: formatea
 2025-11-12T14:37:59 -0400 style: formatea
+2025-11-15T17:14:13 -0400 feat: agrega endpoint
