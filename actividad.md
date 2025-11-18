@@ -193,3 +193,4 @@
 2025-11-17T20:00:11 -0400 style: formatea
 2025-11-17T20:26:02 -0400 chore: actualiza deps
 2025-11-17T21:05:01 -0400 chore: borra codigo muerto
+2025-11-17T21:40:26 -0400 revert cambio anterior
