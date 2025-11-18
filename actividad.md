@@ -195,3 +195,4 @@
 2025-11-17T21:05:01 -0400 chore: borra codigo muerto
 2025-11-17T21:40:26 -0400 revert cambio anterior
 2025-11-17T22:03:36 -0400 docs: actualiza README
+2025-11-18T10:03:49 -0400 fix: typo
