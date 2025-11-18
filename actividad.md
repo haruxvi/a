@@ -197,3 +197,4 @@
 2025-11-17T22:03:36 -0400 docs: actualiza README
 2025-11-18T10:03:49 -0400 fix: typo
 2025-11-18T10:14:00 -0400 fix: null check
+2025-11-18T10:23:03 -0400 fix: manejo de error
