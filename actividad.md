@@ -194,3 +194,4 @@
 2025-11-17T20:26:02 -0400 chore: actualiza deps
 2025-11-17T21:05:01 -0400 chore: borra codigo muerto
 2025-11-17T21:40:26 -0400 revert cambio anterior
+2025-11-17T22:03:36 -0400 docs: actualiza README
