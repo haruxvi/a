@@ -198,3 +198,4 @@
 2025-11-18T10:03:49 -0400 fix: typo
 2025-11-18T10:14:00 -0400 fix: null check
 2025-11-18T10:23:03 -0400 fix: manejo de error
+2025-11-18T10:38:06 -0400 style: formatea
