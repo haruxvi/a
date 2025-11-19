@@ -204,3 +204,4 @@
 2025-11-19T16:45:51 -0400 fix: race condition
 2025-11-19T16:50:55 -0400 refactor: limpia helpers
 2025-11-19T16:55:35 -0400 chore: actualiza deps
+2025-11-19T17:08:00 -0400 fix: race condition
