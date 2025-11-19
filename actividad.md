@@ -202,3 +202,4 @@
 2025-11-18T10:46:15 -0400 refactor: extrae funcion
 2025-11-18T10:57:54 -0400 fix: manejo de error
 2025-11-19T16:45:51 -0400 fix: race condition
+2025-11-19T16:50:55 -0400 refactor: limpia helpers
