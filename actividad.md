@@ -207,3 +207,4 @@
 2025-11-19T17:08:00 -0400 fix: race condition
 2025-11-20T09:25:15 -0400 fix: manejo de error
 2025-11-20T09:48:38 -0400 perf: evita query extra
+2025-11-20T10:28:42 -0400 fix: ajusta margenes
