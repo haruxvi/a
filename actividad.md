@@ -211,3 +211,4 @@
 2025-11-20T10:33:21 -0400 fix: corrige validacion
 2025-11-20T11:09:35 -0400 feat: soporte para filtros
 2025-11-21T09:18:53 -0400 feat: agrega endpoint
+2025-11-21T09:41:40 -0400 fix: ajusta margenes
