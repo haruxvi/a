@@ -213,3 +213,4 @@
 2025-11-21T09:18:53 -0400 feat: agrega endpoint
 2025-11-21T09:41:40 -0400 fix: ajusta margenes
 2025-11-21T10:03:18 -0400 fix: corrige validacion
+2025-11-21T10:20:26 -0400 fix: null check
