@@ -216,3 +216,4 @@
 2025-11-21T10:20:26 -0400 fix: null check
 2025-11-21T10:38:41 -0400 chore: borra codigo muerto
 2025-11-21T10:43:03 -0400 fix: race condition
+2025-11-21T10:50:55 -0400 chore: actualiza deps
