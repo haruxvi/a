@@ -220,3 +220,4 @@
 2025-11-24T09:32:10 -0400 feat: agrega endpoint
 2025-11-24T09:49:12 -0400 chore: actualiza deps
 2025-11-24T10:19:44 -0400 fix: manejo de error
+2025-11-24T10:29:34 -0400 style: formatea
