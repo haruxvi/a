@@ -222,3 +222,4 @@
 2025-11-24T10:19:44 -0400 fix: manejo de error
 2025-11-24T10:29:34 -0400 style: formatea
 2025-11-24T10:37:28 -0400 refactor: extrae funcion
+2025-11-24T11:16:42 -0400 refactor: limpia helpers
