@@ -223,3 +223,4 @@
 2025-11-24T10:29:34 -0400 style: formatea
 2025-11-24T10:37:28 -0400 refactor: extrae funcion
 2025-11-24T11:16:42 -0400 refactor: limpia helpers
+2025-11-24T11:22:30 -0400 chore: renombra variables
