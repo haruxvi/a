@@ -229,3 +229,4 @@
 2025-11-25T10:35:34 -0400 chore: actualiza deps
 2025-11-25T11:02:03 -0400 feat: agrega endpoint
 2025-11-25T11:38:16 -0400 wip
+2025-11-25T11:51:13 -0400 refactor: extrae funcion
