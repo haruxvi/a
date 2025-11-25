@@ -227,3 +227,4 @@
 2025-11-24T11:42:04 -0400 refactor: extrae funcion
 2025-11-25T10:21:51 -0400 fix: race condition
 2025-11-25T10:35:34 -0400 chore: actualiza deps
+2025-11-25T11:02:03 -0400 feat: agrega endpoint
