@@ -228,3 +228,4 @@
 2025-11-25T10:21:51 -0400 fix: race condition
 2025-11-25T10:35:34 -0400 chore: actualiza deps
 2025-11-25T11:02:03 -0400 feat: agrega endpoint
+2025-11-25T11:38:16 -0400 wip
