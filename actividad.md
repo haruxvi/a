@@ -231,3 +231,4 @@
 2025-11-25T11:38:16 -0400 wip
 2025-11-25T11:51:13 -0400 refactor: extrae funcion
 2025-11-26T20:23:47 -0400 test: cubre caso borde
+2025-11-26T20:56:10 -0400 chore: borra codigo muerto
