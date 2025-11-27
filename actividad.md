@@ -235,3 +235,4 @@
 2025-11-26T21:24:01 -0400 fix: ajusta margenes
 2025-11-27T10:22:09 -0400 chore: actualiza deps
 2025-11-27T10:54:59 -0400 chore: renombra variables
+2025-11-27T10:58:37 -0400 test: cubre caso borde
