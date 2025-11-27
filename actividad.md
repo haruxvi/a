@@ -233,3 +233,4 @@
 2025-11-26T20:23:47 -0400 test: cubre caso borde
 2025-11-26T20:56:10 -0400 chore: borra codigo muerto
 2025-11-26T21:24:01 -0400 fix: ajusta margenes
+2025-11-27T10:22:09 -0400 chore: actualiza deps
