@@ -238,3 +238,4 @@
 2025-11-27T10:58:37 -0400 test: cubre caso borde
 2025-11-27T11:36:38 -0400 chore: borra codigo muerto
 2025-11-27T12:09:12 -0400 revert cambio anterior
+2025-11-28T15:34:28 -0400 feat: soporte para filtros
