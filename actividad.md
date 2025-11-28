@@ -242,3 +242,4 @@
 2025-11-28T15:41:06 -0400 fix: typo
 2025-11-28T16:13:22 -0400 fix: manejo de error
 2025-11-28T16:51:57 -0400 revert cambio anterior
+2025-11-28T17:20:21 -0400 test: cubre caso borde
