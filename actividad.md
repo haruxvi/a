@@ -249,3 +249,4 @@
 2025-12-05T11:12:35 -0400 wip
 2025-12-05T11:20:12 -0400 chore: actualiza deps
 2025-12-05T11:47:33 -0400 feat: soporte para filtros
+2025-12-05T11:57:21 -0400 style: formatea
