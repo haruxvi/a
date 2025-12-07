@@ -254,3 +254,4 @@
 2025-12-05T12:24:15 -0400 perf: evita query extra
 2025-12-05T12:50:21 -0400 fix: race condition
 2025-12-05T13:01:36 -0400 chore: borra codigo muerto
+2025-12-07T18:45:31 -0400 fix: manejo de error
