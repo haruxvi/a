@@ -256,3 +256,4 @@
 2025-12-05T13:01:36 -0400 chore: borra codigo muerto
 2025-12-07T18:45:31 -0400 fix: manejo de error
 2025-12-07T19:03:11 -0400 test: cubre caso borde
+2025-12-07T19:43:46 -0400 test: cubre caso borde
