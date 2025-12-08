@@ -258,3 +258,4 @@
 2025-12-07T19:03:11 -0400 test: cubre caso borde
 2025-12-07T19:43:46 -0400 test: cubre caso borde
 2025-12-07T20:13:34 -0400 chore: borra codigo muerto
+2025-12-08T17:45:25 -0400 perf: evita query extra
