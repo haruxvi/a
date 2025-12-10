@@ -263,3 +263,4 @@
 2025-12-08T18:42:19 -0400 refactor: extrae funcion
 2025-12-09T20:38:47 -0400 chore: borra codigo muerto
 2025-12-09T20:46:00 -0400 feat: soporte para filtros
+2025-12-09T21:08:55 -0400 fix: typo
