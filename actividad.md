@@ -268,3 +268,4 @@
 2025-12-09T21:52:08 -0400 chore: actualiza deps
 2025-12-10T16:40:22 -0400 chore: renombra variables
 2025-12-10T17:07:16 -0400 style: formatea
+2025-12-10T17:32:48 -0400 docs: actualiza README
