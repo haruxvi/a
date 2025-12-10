@@ -261,3 +261,4 @@
 2025-12-08T17:45:25 -0400 perf: evita query extra
 2025-12-08T18:13:38 -0400 style: formatea
 2025-12-08T18:42:19 -0400 refactor: extrae funcion
+2025-12-09T20:38:47 -0400 chore: borra codigo muerto
