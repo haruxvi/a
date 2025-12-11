@@ -270,3 +270,4 @@
 2025-12-10T17:07:16 -0400 style: formatea
 2025-12-10T17:32:48 -0400 docs: actualiza README
 2025-12-10T17:48:44 -0400 feat: soporte para filtros
+2025-12-11T10:07:45 -0400 feat: soporte para filtros
