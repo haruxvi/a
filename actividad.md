@@ -273,3 +273,4 @@
 2025-12-11T10:07:45 -0400 feat: soporte para filtros
 2025-12-11T10:36:09 -0400 wip
 2025-12-11T11:01:58 -0400 fix: corrige validacion
+2025-12-11T11:05:24 -0400 fix: ajusta margenes
