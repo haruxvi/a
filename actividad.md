@@ -271,3 +271,4 @@
 2025-12-10T17:32:48 -0400 docs: actualiza README
 2025-12-10T17:48:44 -0400 feat: soporte para filtros
 2025-12-11T10:07:45 -0400 feat: soporte para filtros
+2025-12-11T10:36:09 -0400 wip
