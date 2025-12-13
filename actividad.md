@@ -275,3 +275,4 @@
 2025-12-11T11:01:58 -0400 fix: corrige validacion
 2025-12-11T11:05:24 -0400 fix: ajusta margenes
 2025-12-12T22:10:45 -0400 revert cambio anterior
+2025-12-12T22:14:29 -0400 refactor: extrae funcion
