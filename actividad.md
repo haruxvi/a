@@ -280,3 +280,4 @@
 2025-12-13T23:03:07 -0400 chore: renombra variables
 2025-12-13T23:42:14 -0400 revert cambio anterior
 2025-12-13T23:58:17 -0400 feat: soporte para filtros
+2025-12-13T23:58:31 -0400 refactor: limpia helpers
