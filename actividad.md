@@ -277,3 +277,4 @@
 2025-12-12T22:10:45 -0400 revert cambio anterior
 2025-12-12T22:14:29 -0400 refactor: extrae funcion
 2025-12-13T22:37:19 -0400 refactor: extrae funcion
+2025-12-13T23:03:07 -0400 chore: renombra variables
