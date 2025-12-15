@@ -291,3 +291,4 @@
 2025-12-15T13:59:17 -0400 fix: manejo de error
 2025-12-15T14:03:53 -0400 fix: typo
 2025-12-15T14:38:07 -0400 fix: typo
+2025-12-15T14:54:59 -0400 refactor: limpia helpers
