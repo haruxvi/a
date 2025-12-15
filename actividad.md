@@ -282,3 +282,4 @@
 2025-12-13T23:58:17 -0400 feat: soporte para filtros
 2025-12-13T23:58:31 -0400 refactor: limpia helpers
 2025-12-15T12:23:31 -0400 style: formatea
+2025-12-15T12:30:05 -0400 chore: actualiza deps
