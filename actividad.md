@@ -287,3 +287,4 @@
 2025-12-15T12:59:43 -0400 refactor: limpia helpers
 2025-12-15T13:06:22 -0400 style: formatea
 2025-12-15T13:44:52 -0400 test: cubre caso borde
+2025-12-15T13:49:48 -0400 fix: race condition
