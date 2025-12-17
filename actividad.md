@@ -301,3 +301,4 @@
 2025-12-17T10:10:01 -0400 fix: manejo de error
 2025-12-17T10:20:33 -0400 chore: renombra variables
 2025-12-17T10:56:50 -0400 fix: corrige validacion
+2025-12-17T11:27:43 -0400 refactor: extrae funcion
