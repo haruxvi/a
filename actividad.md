@@ -297,3 +297,4 @@
 2025-12-16T21:25:53 -0400 chore: borra codigo muerto
 2025-12-16T21:51:53 -0400 chore: actualiza deps
 2025-12-16T22:31:00 -0400 fix: manejo de error
+2025-12-16T22:48:19 -0400 revert cambio anterior
