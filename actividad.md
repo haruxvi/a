@@ -299,3 +299,4 @@
 2025-12-16T22:31:00 -0400 fix: manejo de error
 2025-12-16T22:48:19 -0400 revert cambio anterior
 2025-12-17T10:10:01 -0400 fix: manejo de error
+2025-12-17T10:20:33 -0400 chore: renombra variables
