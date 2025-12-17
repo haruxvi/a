@@ -303,3 +303,4 @@
 2025-12-17T10:56:50 -0400 fix: corrige validacion
 2025-12-17T11:27:43 -0400 refactor: extrae funcion
 2025-12-17T12:04:41 -0400 chore: actualiza deps
+2025-12-17T12:15:32 -0400 perf: evita query extra
