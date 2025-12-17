@@ -305,3 +305,4 @@
 2025-12-17T12:04:41 -0400 chore: actualiza deps
 2025-12-17T12:15:32 -0400 perf: evita query extra
 2025-12-17T12:43:53 -0400 fix: corrige validacion
+2025-12-17T13:13:18 -0400 fix: ajusta margenes
