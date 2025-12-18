@@ -309,3 +309,4 @@
 2025-12-18T17:34:22 -0400 docs: actualiza README
 2025-12-18T17:44:24 -0400 fix: ajusta margenes
 2025-12-18T18:19:29 -0400 docs: actualiza README
+2025-12-18T18:35:12 -0400 chore: actualiza deps
