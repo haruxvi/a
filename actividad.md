@@ -307,3 +307,4 @@
 2025-12-17T12:43:53 -0400 fix: corrige validacion
 2025-12-17T13:13:18 -0400 fix: ajusta margenes
 2025-12-18T17:34:22 -0400 docs: actualiza README
+2025-12-18T17:44:24 -0400 fix: ajusta margenes
