@@ -312,3 +312,4 @@
 2025-12-18T18:35:12 -0400 chore: actualiza deps
 2025-12-19T11:31:48 -0400 style: formatea
 2025-12-19T11:37:06 -0400 chore: borra codigo muerto
+2025-12-19T11:40:52 -0400 fix: null check
