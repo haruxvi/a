@@ -315,3 +315,4 @@
 2025-12-19T11:40:52 -0400 fix: null check
 2025-12-19T12:11:16 -0400 chore: actualiza deps
 2025-12-23T09:12:48 -0400 perf: evita query extra
+2025-12-23T09:50:25 -0400 perf: evita query extra
