@@ -318,3 +318,4 @@
 2025-12-23T09:50:25 -0400 perf: evita query extra
 2025-12-23T10:21:57 -0400 test: cubre caso borde
 2025-12-23T10:28:00 -0400 chore: renombra variables
+2025-12-24T15:11:36 -0400 fix: corrige validacion
