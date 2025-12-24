@@ -320,3 +320,4 @@
 2025-12-23T10:28:00 -0400 chore: renombra variables
 2025-12-24T15:11:36 -0400 fix: corrige validacion
 2025-12-24T15:23:45 -0400 fix: typo
+2025-12-24T15:45:30 -0400 test: cubre caso borde
