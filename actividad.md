@@ -326,3 +326,4 @@
 2025-12-25T11:33:00 -0400 fix: ajusta margenes
 2025-12-25T11:54:37 -0400 revert cambio anterior
 2025-12-25T12:11:57 -0400 chore: renombra variables
+2025-12-25T12:48:50 -0400 perf: evita query extra
