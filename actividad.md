@@ -324,3 +324,4 @@
 2025-12-24T15:53:00 -0400 docs: actualiza README
 2025-12-25T11:01:47 -0400 refactor: extrae funcion
 2025-12-25T11:33:00 -0400 fix: ajusta margenes
+2025-12-25T11:54:37 -0400 revert cambio anterior
