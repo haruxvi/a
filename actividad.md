@@ -322,3 +322,4 @@
 2025-12-24T15:23:45 -0400 fix: typo
 2025-12-24T15:45:30 -0400 test: cubre caso borde
 2025-12-24T15:53:00 -0400 docs: actualiza README
+2025-12-25T11:01:47 -0400 refactor: extrae funcion
