@@ -330,3 +330,4 @@
 2025-12-26T10:43:42 -0400 style: formatea
 2025-12-26T11:23:15 -0400 docs: actualiza README
 2025-12-26T12:00:54 -0400 feat: soporte para filtros
+2025-12-26T12:19:25 -0400 fix: typo
