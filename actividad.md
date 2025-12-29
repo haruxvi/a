@@ -332,3 +332,4 @@
 2025-12-26T12:00:54 -0400 feat: soporte para filtros
 2025-12-26T12:19:25 -0400 fix: typo
 2025-12-29T10:38:19 -0400 chore: renombra variables
+2025-12-29T11:02:15 -0400 docs: actualiza README
