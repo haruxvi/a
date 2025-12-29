@@ -335,3 +335,4 @@
 2025-12-29T11:02:15 -0400 docs: actualiza README
 2025-12-29T11:09:20 -0400 feat: agrega endpoint
 2025-12-29T11:32:57 -0400 test: cubre caso borde
+2025-12-29T12:03:01 -0400 fix: race condition
