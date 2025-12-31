@@ -338,3 +338,4 @@
 2025-12-29T12:03:01 -0400 fix: race condition
 2025-12-31T10:26:16 -0400 revert cambio anterior
 2025-12-31T10:40:51 -0400 style: formatea
+2025-12-31T10:47:50 -0400 refactor: limpia helpers
