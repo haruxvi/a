@@ -336,3 +336,4 @@
 2025-12-29T11:09:20 -0400 feat: agrega endpoint
 2025-12-29T11:32:57 -0400 test: cubre caso borde
 2025-12-29T12:03:01 -0400 fix: race condition
+2025-12-31T10:26:16 -0400 revert cambio anterior
