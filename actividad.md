@@ -339,3 +339,4 @@
 2025-12-31T10:26:16 -0400 revert cambio anterior
 2025-12-31T10:40:51 -0400 style: formatea
 2025-12-31T10:47:50 -0400 refactor: limpia helpers
+2025-12-31T10:58:26 -0400 fix: manejo de error
