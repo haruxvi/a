@@ -341,3 +341,4 @@
 2025-12-31T10:47:50 -0400 refactor: limpia helpers
 2025-12-31T10:58:26 -0400 fix: manejo de error
 2026-01-02T17:02:21 -0400 chore: renombra variables
+2026-01-02T17:25:33 -0400 fix: null check
