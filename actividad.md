@@ -343,3 +343,4 @@
 2026-01-02T17:02:21 -0400 chore: renombra variables
 2026-01-02T17:25:33 -0400 fix: null check
 2026-01-02T17:54:21 -0400 chore: borra codigo muerto
+2026-01-04T21:14:31 -0400 chore: actualiza deps
