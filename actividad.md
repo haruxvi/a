@@ -347,3 +347,4 @@
 2026-01-04T21:27:02 -0400 chore: borra codigo muerto
 2026-01-04T22:02:38 -0400 fix: race condition
 2026-01-04T22:34:07 -0400 fix: ajusta margenes
+2026-01-05T11:44:56 -0400 feat: agrega endpoint
