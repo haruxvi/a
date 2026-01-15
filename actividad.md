@@ -350,3 +350,4 @@
 2026-01-05T11:44:56 -0400 feat: agrega endpoint
 2026-01-13T09:07:22 -0400 fix: null check
 2026-01-13T09:27:23 -0400 fix: typo
+2026-01-15T16:17:20 -0400 fix: corrige validacion
