@@ -352,3 +352,4 @@
 2026-01-13T09:27:23 -0400 fix: typo
 2026-01-15T16:17:20 -0400 fix: corrige validacion
 2026-01-19T10:18:30 -0400 style: formatea
+2026-01-19T10:30:10 -0400 revert cambio anterior
