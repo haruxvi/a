@@ -355,3 +355,4 @@
 2026-01-19T10:30:10 -0400 revert cambio anterior
 2026-01-20T16:40:27 -0400 chore: renombra variables
 2026-01-20T17:08:46 -0400 chore: borra codigo muerto
+2026-01-20T17:24:34 -0400 perf: evita query extra
