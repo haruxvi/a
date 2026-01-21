@@ -358,3 +358,4 @@
 2026-01-20T17:24:34 -0400 perf: evita query extra
 2026-01-20T17:49:54 -0400 chore: actualiza deps
 2026-01-21T09:17:28 -0400 fix: manejo de error
+2026-01-21T09:33:10 -0400 chore: actualiza deps
