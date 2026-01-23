@@ -368,3 +368,4 @@
 2026-01-23T15:11:27 -0400 chore: renombra variables
 2026-01-23T15:19:46 -0400 fix: race condition
 2026-01-23T15:58:04 -0400 refactor: limpia helpers
+2026-01-23T16:09:07 -0400 test: cubre caso borde
