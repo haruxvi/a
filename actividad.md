@@ -362,3 +362,4 @@
 2026-01-22T10:34:03 -0400 chore: actualiza deps
 2026-01-22T10:47:15 -0400 docs: actualiza README
 2026-01-23T13:32:09 -0400 wip
+2026-01-23T13:52:52 -0400 chore: renombra variables
