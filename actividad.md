@@ -365,3 +365,4 @@
 2026-01-23T13:52:52 -0400 chore: renombra variables
 2026-01-23T14:31:17 -0400 docs: actualiza README
 2026-01-23T14:37:18 -0400 fix: manejo de error
+2026-01-23T15:11:27 -0400 chore: renombra variables
