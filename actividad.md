@@ -367,3 +367,4 @@
 2026-01-23T14:37:18 -0400 fix: manejo de error
 2026-01-23T15:11:27 -0400 chore: renombra variables
 2026-01-23T15:19:46 -0400 fix: race condition
+2026-01-23T15:58:04 -0400 refactor: limpia helpers
