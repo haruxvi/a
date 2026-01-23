@@ -369,3 +369,4 @@
 2026-01-23T15:19:46 -0400 fix: race condition
 2026-01-23T15:58:04 -0400 refactor: limpia helpers
 2026-01-23T16:09:07 -0400 test: cubre caso borde
+2026-01-23T16:29:13 -0400 docs: actualiza README
