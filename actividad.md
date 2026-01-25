@@ -373,3 +373,4 @@
 2026-01-24T22:43:18 -0400 fix: manejo de error
 2026-01-24T22:51:23 -0400 refactor: limpia helpers
 2026-01-24T22:54:10 -0400 refactor: extrae funcion
+2026-01-24T23:15:39 -0400 fix: race condition
