@@ -371,3 +371,4 @@
 2026-01-23T16:09:07 -0400 test: cubre caso borde
 2026-01-23T16:29:13 -0400 docs: actualiza README
 2026-01-24T22:43:18 -0400 fix: manejo de error
+2026-01-24T22:51:23 -0400 refactor: limpia helpers
