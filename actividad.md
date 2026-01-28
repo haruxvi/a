@@ -376,3 +376,4 @@
 2026-01-24T23:15:39 -0400 fix: race condition
 2026-01-25T14:21:54 -0400 fix: typo
 2026-01-25T14:31:21 -0400 feat: soporte para filtros
+2026-01-28T11:21:23 -0400 refactor: extrae funcion
