@@ -377,3 +377,4 @@
 2026-01-25T14:21:54 -0400 fix: typo
 2026-01-25T14:31:21 -0400 feat: soporte para filtros
 2026-01-28T11:21:23 -0400 refactor: extrae funcion
+2026-01-28T11:40:45 -0400 chore: actualiza deps
