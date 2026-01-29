@@ -381,3 +381,4 @@
 2026-01-28T11:57:08 -0400 fix: ajusta margenes
 2026-01-29T15:13:13 -0400 feat: agrega endpoint
 2026-01-29T15:22:09 -0400 wip
+2026-01-29T15:53:39 -0400 style: formatea
