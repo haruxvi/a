@@ -379,3 +379,4 @@
 2026-01-28T11:21:23 -0400 refactor: extrae funcion
 2026-01-28T11:40:45 -0400 chore: actualiza deps
 2026-01-28T11:57:08 -0400 fix: ajusta margenes
+2026-01-29T15:13:13 -0400 feat: agrega endpoint
