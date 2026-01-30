@@ -385,3 +385,4 @@
 2026-01-29T16:33:51 -0400 feat: soporte para filtros
 2026-01-30T09:44:09 -0400 feat: soporte para filtros
 2026-01-30T10:07:19 -0400 chore: actualiza deps
+2026-01-30T10:15:45 -0400 fix: typo
