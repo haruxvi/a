@@ -389,3 +389,4 @@
 2026-01-31T21:00:52 -0400 perf: evita query extra
 2026-01-31T21:12:40 -0400 chore: actualiza deps
 2026-02-01T19:43:39 -0400 refactor: extrae funcion
+2026-02-01T19:56:30 -0400 style: formatea
