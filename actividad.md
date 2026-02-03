@@ -391,3 +391,4 @@
 2026-02-01T19:43:39 -0400 refactor: extrae funcion
 2026-02-01T19:56:30 -0400 style: formatea
 2026-02-01T20:14:29 -0400 feat: soporte para filtros
+2026-02-02T20:27:31 -0400 wip
