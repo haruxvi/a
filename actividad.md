@@ -394,3 +394,4 @@
 2026-02-02T20:27:31 -0400 wip
 2026-02-02T20:45:25 -0400 fix: ajusta margenes
 2026-02-03T20:06:00 -0400 feat: agrega endpoint
+2026-02-05T16:43:59 -0400 fix: corrige validacion
