@@ -401,3 +401,4 @@
 2026-02-05T18:12:15 -0400 chore: actualiza deps
 2026-02-06T09:01:08 -0400 wip
 2026-02-06T09:41:18 -0400 fix: typo
+2026-02-06T10:18:38 -0400 test: cubre caso borde
