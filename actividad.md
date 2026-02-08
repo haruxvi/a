@@ -405,3 +405,4 @@
 2026-02-06T10:50:39 -0400 revert cambio anterior
 2026-02-07T20:44:04 -0400 revert cambio anterior
 2026-02-07T20:53:00 -0400 wip
+2026-02-07T20:58:12 -0400 feat: soporte para filtros
