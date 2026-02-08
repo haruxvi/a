@@ -403,3 +403,4 @@
 2026-02-06T09:41:18 -0400 fix: typo
 2026-02-06T10:18:38 -0400 test: cubre caso borde
 2026-02-06T10:50:39 -0400 revert cambio anterior
+2026-02-07T20:44:04 -0400 revert cambio anterior
