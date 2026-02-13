@@ -413,3 +413,4 @@
 2026-02-12T20:47:10 -0400 chore: borra codigo muerto
 2026-02-13T09:13:36 -0400 perf: evita query extra
 2026-02-13T09:53:46 -0400 fix: null check
+2026-02-13T10:27:56 -0400 chore: actualiza deps
