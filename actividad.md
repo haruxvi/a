@@ -408,3 +408,4 @@
 2026-02-07T20:58:12 -0400 feat: soporte para filtros
 2026-02-07T21:13:43 -0400 docs: actualiza README
 2026-02-09T10:45:24 -0400 chore: borra codigo muerto
+2026-02-12T20:19:16 -0400 perf: evita query extra
