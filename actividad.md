@@ -411,3 +411,4 @@
 2026-02-12T20:19:16 -0400 perf: evita query extra
 2026-02-12T20:35:02 -0400 test: cubre caso borde
 2026-02-12T20:47:10 -0400 chore: borra codigo muerto
+2026-02-13T09:13:36 -0400 perf: evita query extra
