@@ -416,3 +416,4 @@
 2026-02-13T10:27:56 -0400 chore: actualiza deps
 2026-02-16T17:34:09 -0400 perf: evita query extra
 2026-02-16T17:57:32 -0400 feat: soporte para filtros
+2026-02-16T18:37:18 -0400 perf: evita query extra
