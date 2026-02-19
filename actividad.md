@@ -418,3 +418,4 @@
 2026-02-16T17:57:32 -0400 feat: soporte para filtros
 2026-02-16T18:37:18 -0400 perf: evita query extra
 2026-02-19T15:26:15 -0400 chore: actualiza deps
+2026-02-19T15:45:01 -0400 chore: renombra variables
