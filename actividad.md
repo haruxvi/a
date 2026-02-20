@@ -419,3 +419,4 @@
 2026-02-16T18:37:18 -0400 perf: evita query extra
 2026-02-19T15:26:15 -0400 chore: actualiza deps
 2026-02-19T15:45:01 -0400 chore: renombra variables
+2026-02-20T17:01:00 -0400 refactor: extrae funcion
