@@ -422,3 +422,4 @@
 2026-02-20T17:01:00 -0400 refactor: extrae funcion
 2026-02-20T17:09:30 -0400 feat: soporte para filtros
 2026-02-20T17:49:23 -0400 feat: soporte para filtros
+2026-02-20T18:02:29 -0400 refactor: limpia helpers
