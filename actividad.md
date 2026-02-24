@@ -424,3 +424,4 @@
 2026-02-20T17:49:23 -0400 feat: soporte para filtros
 2026-02-20T18:02:29 -0400 refactor: limpia helpers
 2026-02-23T16:34:12 -0400 chore: renombra variables
+2026-02-24T09:43:18 -0400 feat: soporte para filtros
