@@ -427,3 +427,4 @@
 2026-02-24T09:43:18 -0400 feat: soporte para filtros
 2026-02-25T09:17:10 -0400 chore: actualiza deps
 2026-02-25T09:45:36 -0400 fix: corrige validacion
+2026-02-25T10:04:04 -0400 chore: borra codigo muerto
