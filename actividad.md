@@ -436,3 +436,4 @@
 2026-02-26T15:57:39 -0400 test: cubre caso borde
 2026-02-26T16:27:30 -0400 fix: ajusta margenes
 2026-02-26T16:52:55 -0400 refactor: limpia helpers
+2026-02-26T17:01:17 -0400 fix: ajusta margenes
