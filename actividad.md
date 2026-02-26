@@ -435,3 +435,4 @@
 2026-02-26T15:19:36 -0400 refactor: extrae funcion
 2026-02-26T15:57:39 -0400 test: cubre caso borde
 2026-02-26T16:27:30 -0400 fix: ajusta margenes
+2026-02-26T16:52:55 -0400 refactor: limpia helpers
