@@ -443,3 +443,4 @@
 2026-02-26T19:03:42 -0400 fix: corrige validacion
 2026-02-26T19:06:57 -0400 perf: evita query extra
 2026-02-26T19:20:08 -0400 chore: borra codigo muerto
+2026-02-26T19:35:05 -0400 chore: actualiza deps
