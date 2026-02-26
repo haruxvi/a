@@ -431,3 +431,4 @@
 2026-02-26T13:32:10 -0400 feat: agrega endpoint
 2026-02-26T14:00:56 -0400 fix: corrige validacion
 2026-02-26T14:26:49 -0400 refactor: limpia helpers
+2026-02-26T14:46:53 -0400 refactor: limpia helpers
