@@ -432,3 +432,4 @@
 2026-02-26T14:00:56 -0400 fix: corrige validacion
 2026-02-26T14:26:49 -0400 refactor: limpia helpers
 2026-02-26T14:46:53 -0400 refactor: limpia helpers
+2026-02-26T15:19:36 -0400 refactor: extrae funcion
