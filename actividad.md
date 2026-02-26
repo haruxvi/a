@@ -438,3 +438,4 @@
 2026-02-26T16:52:55 -0400 refactor: limpia helpers
 2026-02-26T17:01:17 -0400 fix: ajusta margenes
 2026-02-26T17:14:13 -0400 docs: actualiza README
+2026-02-26T17:54:31 -0400 feat: agrega endpoint
