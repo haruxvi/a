@@ -439,3 +439,4 @@
 2026-02-26T17:01:17 -0400 fix: ajusta margenes
 2026-02-26T17:14:13 -0400 docs: actualiza README
 2026-02-26T17:54:31 -0400 feat: agrega endpoint
+2026-02-26T18:28:49 -0400 perf: evita query extra
