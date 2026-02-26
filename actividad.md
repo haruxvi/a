@@ -430,3 +430,4 @@
 2026-02-25T10:04:04 -0400 chore: borra codigo muerto
 2026-02-26T13:32:10 -0400 feat: agrega endpoint
 2026-02-26T14:00:56 -0400 fix: corrige validacion
+2026-02-26T14:26:49 -0400 refactor: limpia helpers
