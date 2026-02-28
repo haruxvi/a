@@ -448,3 +448,4 @@
 2026-02-26T20:02:25 -0400 test: cubre caso borde
 2026-02-27T20:27:43 -0400 refactor: limpia helpers
 2026-02-27T20:44:52 -0400 style: formatea
+2026-02-27T21:06:51 -0400 style: formatea
