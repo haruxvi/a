@@ -449,3 +449,4 @@
 2026-02-27T20:27:43 -0400 refactor: limpia helpers
 2026-02-27T20:44:52 -0400 style: formatea
 2026-02-27T21:06:51 -0400 style: formatea
+2026-03-01T16:08:21 -0400 style: formatea
