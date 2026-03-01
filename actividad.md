@@ -451,3 +451,4 @@
 2026-02-27T21:06:51 -0400 style: formatea
 2026-03-01T16:08:21 -0400 style: formatea
 2026-03-01T16:32:57 -0400 test: cubre caso borde
+2026-03-01T17:01:01 -0400 feat: soporte para filtros
