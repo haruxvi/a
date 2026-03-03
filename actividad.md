@@ -462,3 +462,4 @@
 2026-03-03T16:57:29 -0400 wip
 2026-03-03T17:32:28 -0400 refactor: extrae funcion
 2026-03-03T17:59:29 -0400 fix: null check
+2026-03-03T18:22:18 -0400 fix: race condition
