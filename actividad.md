@@ -460,3 +460,4 @@
 2026-03-02T23:58:24 -0400 test: cubre caso borde
 2026-03-03T16:23:38 -0400 fix: race condition
 2026-03-03T16:57:29 -0400 wip
+2026-03-03T17:32:28 -0400 refactor: extrae funcion
