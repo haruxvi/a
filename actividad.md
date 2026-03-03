@@ -456,3 +456,4 @@
 2026-03-02T22:32:49 -0400 chore: borra codigo muerto
 2026-03-02T22:35:37 -0400 refactor: extrae funcion
 2026-03-02T23:09:46 -0400 perf: evita query extra
+2026-03-02T23:34:48 -0400 fix: corrige validacion
