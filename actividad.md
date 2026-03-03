@@ -453,3 +453,4 @@
 2026-03-01T16:32:57 -0400 test: cubre caso borde
 2026-03-01T17:01:01 -0400 feat: soporte para filtros
 2026-03-01T17:33:28 -0400 chore: actualiza deps
+2026-03-02T22:32:49 -0400 chore: borra codigo muerto
