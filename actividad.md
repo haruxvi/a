@@ -455,3 +455,4 @@
 2026-03-01T17:33:28 -0400 chore: actualiza deps
 2026-03-02T22:32:49 -0400 chore: borra codigo muerto
 2026-03-02T22:35:37 -0400 refactor: extrae funcion
+2026-03-02T23:09:46 -0400 perf: evita query extra
