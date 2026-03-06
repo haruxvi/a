@@ -475,3 +475,4 @@
 2026-03-06T12:49:56 -0400 feat: soporte para filtros
 2026-03-06T13:26:55 -0400 fix: race condition
 2026-03-06T13:46:29 -0400 feat: agrega endpoint
+2026-03-06T13:54:27 -0400 feat: soporte para filtros
