@@ -477,3 +477,4 @@
 2026-03-06T13:46:29 -0400 feat: agrega endpoint
 2026-03-06T13:54:27 -0400 feat: soporte para filtros
 2026-03-06T14:29:30 -0400 refactor: limpia helpers
+2026-03-06T15:05:12 -0400 refactor: limpia helpers
