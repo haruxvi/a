@@ -470,3 +470,4 @@
 2026-03-05T11:41:33 -0400 refactor: limpia helpers
 2026-03-05T11:52:09 -0400 fix: typo
 2026-03-06T12:06:00 -0400 feat: agrega endpoint
+2026-03-06T12:10:24 -0400 revert cambio anterior
