@@ -472,3 +472,4 @@
 2026-03-06T12:06:00 -0400 feat: agrega endpoint
 2026-03-06T12:10:24 -0400 revert cambio anterior
 2026-03-06T12:27:53 -0400 chore: renombra variables
+2026-03-06T12:49:56 -0400 feat: soporte para filtros
