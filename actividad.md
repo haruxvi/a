@@ -487,3 +487,4 @@
 2026-03-10T16:58:49 -0400 fix: corrige validacion
 2026-03-10T17:31:46 -0400 feat: agrega endpoint
 2026-03-10T17:59:55 -0400 fix: race condition
+2026-03-10T18:28:50 -0400 wip
