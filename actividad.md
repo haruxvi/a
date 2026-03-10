@@ -483,3 +483,4 @@
 2026-03-09T11:40:29 -0400 feat: agrega endpoint
 2026-03-09T11:59:48 -0400 revert cambio anterior
 2026-03-10T16:34:47 -0400 refactor: extrae funcion
+2026-03-10T16:55:54 -0400 fix: corrige validacion
