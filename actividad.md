@@ -485,3 +485,4 @@
 2026-03-10T16:34:47 -0400 refactor: extrae funcion
 2026-03-10T16:55:54 -0400 fix: corrige validacion
 2026-03-10T16:58:49 -0400 fix: corrige validacion
+2026-03-10T17:31:46 -0400 feat: agrega endpoint
