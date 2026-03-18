@@ -490,3 +490,4 @@
 2026-03-10T18:28:50 -0400 wip
 2026-03-10T18:46:03 -0400 fix: ajusta margenes
 2026-03-15T09:31:38 -0400 feat: agrega endpoint
+2026-03-18T00:42:11 -0400 fix: race condition
