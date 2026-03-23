@@ -492,3 +492,4 @@
 2026-03-15T09:31:38 -0400 feat: agrega endpoint
 2026-03-18T00:42:11 -0400 fix: race condition
 2026-03-18T01:19:25 -0400 style: formatea
+2026-03-23T09:01:36 -0400 test: cubre caso borde
