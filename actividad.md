@@ -498,3 +498,4 @@
 2026-03-24T22:23:14 -0400 feat: soporte para filtros
 2026-03-25T15:00:59 -0400 chore: actualiza deps
 2026-03-25T15:29:09 -0400 chore: actualiza deps
+2026-03-25T15:45:23 -0400 fix: manejo de error
