@@ -499,3 +499,4 @@
 2026-03-25T15:00:59 -0400 chore: actualiza deps
 2026-03-25T15:29:09 -0400 chore: actualiza deps
 2026-03-25T15:45:23 -0400 fix: manejo de error
+2026-03-25T16:10:27 -0400 chore: actualiza deps
