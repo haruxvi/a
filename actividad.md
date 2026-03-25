@@ -496,3 +496,4 @@
 2026-03-23T09:23:14 -0400 perf: evita query extra
 2026-03-23T09:44:58 -0400 refactor: extrae funcion
 2026-03-24T22:23:14 -0400 feat: soporte para filtros
+2026-03-25T15:00:59 -0400 chore: actualiza deps
