@@ -504,3 +504,4 @@
 2026-03-25T16:49:10 -0400 fix: race condition
 2026-03-27T15:42:18 -0400 test: cubre caso borde
 2026-03-30T22:07:42 -0400 revert cambio anterior
+2026-03-30T22:25:11 -0400 chore: borra codigo muerto
