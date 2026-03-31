@@ -507,3 +507,4 @@
 2026-03-30T22:25:11 -0400 chore: borra codigo muerto
 2026-03-30T22:51:18 -0400 perf: evita query extra
 2026-03-30T23:30:23 -0400 fix: manejo de error
+2026-03-30T23:42:48 -0400 fix: corrige validacion
