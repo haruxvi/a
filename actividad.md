@@ -506,3 +506,4 @@
 2026-03-30T22:07:42 -0400 revert cambio anterior
 2026-03-30T22:25:11 -0400 chore: borra codigo muerto
 2026-03-30T22:51:18 -0400 perf: evita query extra
+2026-03-30T23:30:23 -0400 fix: manejo de error
