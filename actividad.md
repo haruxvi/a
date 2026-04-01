@@ -512,3 +512,4 @@
 2026-04-01T10:13:39 -0400 docs: actualiza README
 2026-04-01T10:28:00 -0400 fix: typo
 2026-04-01T10:57:08 -0400 refactor: extrae funcion
+2026-04-01T11:02:26 -0400 fix: typo
