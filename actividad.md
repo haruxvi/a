@@ -511,3 +511,4 @@
 2026-04-01T10:06:25 -0400 fix: corrige validacion
 2026-04-01T10:13:39 -0400 docs: actualiza README
 2026-04-01T10:28:00 -0400 fix: typo
+2026-04-01T10:57:08 -0400 refactor: extrae funcion
