@@ -509,3 +509,4 @@
 2026-03-30T23:30:23 -0400 fix: manejo de error
 2026-03-30T23:42:48 -0400 fix: corrige validacion
 2026-04-01T10:06:25 -0400 fix: corrige validacion
+2026-04-01T10:13:39 -0400 docs: actualiza README
