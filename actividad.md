@@ -516,3 +516,4 @@
 2026-04-02T17:15:32 -0400 chore: borra codigo muerto
 2026-04-02T17:24:29 -0400 refactor: limpia helpers
 2026-04-02T17:53:49 -0400 fix: null check
+2026-04-02T17:58:13 -0400 fix: typo
