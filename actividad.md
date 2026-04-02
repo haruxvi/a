@@ -514,3 +514,4 @@
 2026-04-01T10:57:08 -0400 refactor: extrae funcion
 2026-04-01T11:02:26 -0400 fix: typo
 2026-04-02T17:15:32 -0400 chore: borra codigo muerto
+2026-04-02T17:24:29 -0400 refactor: limpia helpers
