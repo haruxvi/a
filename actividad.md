@@ -520,3 +520,4 @@
 2026-04-02T18:11:37 -0400 feat: soporte para filtros
 2026-04-02T18:41:33 -0400 fix: ajusta margenes
 2026-04-03T10:18:14 -0400 fix: null check
+2026-04-03T10:45:32 -0400 fix: corrige validacion
