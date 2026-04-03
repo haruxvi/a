@@ -522,3 +522,4 @@
 2026-04-03T10:18:14 -0400 fix: null check
 2026-04-03T10:45:32 -0400 fix: corrige validacion
 2026-04-03T11:12:48 -0400 chore: renombra variables
+2026-04-03T11:35:49 -0400 fix: typo
