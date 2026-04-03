@@ -521,3 +521,4 @@
 2026-04-02T18:41:33 -0400 fix: ajusta margenes
 2026-04-03T10:18:14 -0400 fix: null check
 2026-04-03T10:45:32 -0400 fix: corrige validacion
+2026-04-03T11:12:48 -0400 chore: renombra variables
