@@ -525,3 +525,4 @@
 2026-04-03T11:35:49 -0400 fix: typo
 2026-04-06T17:13:53 -0400 refactor: extrae funcion
 2026-04-06T17:52:59 -0400 fix: race condition
+2026-04-06T18:11:58 -0400 fix: null check
