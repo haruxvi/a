@@ -526,3 +526,4 @@
 2026-04-06T17:13:53 -0400 refactor: extrae funcion
 2026-04-06T17:52:59 -0400 fix: race condition
 2026-04-06T18:11:58 -0400 fix: null check
+2026-04-06T18:40:10 -0400 chore: actualiza deps
