@@ -529,3 +529,4 @@
 2026-04-06T18:40:10 -0400 chore: actualiza deps
 2026-04-07T20:03:33 -0400 docs: actualiza README
 2026-04-07T20:28:22 -0400 chore: borra codigo muerto
+2026-04-07T20:54:50 -0400 fix: typo
