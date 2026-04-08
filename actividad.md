@@ -532,3 +532,4 @@
 2026-04-07T20:54:50 -0400 fix: typo
 2026-04-08T15:42:33 -0400 refactor: extrae funcion
 2026-04-08T16:14:28 -0400 feat: agrega endpoint
+2026-04-08T16:25:40 -0400 fix: typo
