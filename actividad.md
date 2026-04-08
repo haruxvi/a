@@ -535,3 +535,4 @@
 2026-04-08T16:25:40 -0400 fix: typo
 2026-04-08T16:32:13 -0400 feat: soporte para filtros
 2026-04-08T17:08:37 -0400 perf: evita query extra
+2026-04-08T17:27:05 -0400 revert cambio anterior
