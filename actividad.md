@@ -537,3 +537,4 @@
 2026-04-08T17:08:37 -0400 perf: evita query extra
 2026-04-08T17:27:05 -0400 revert cambio anterior
 2026-04-09T15:16:21 -0400 fix: corrige validacion
+2026-04-09T15:52:03 -0400 wip
