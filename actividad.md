@@ -539,3 +539,4 @@
 2026-04-09T15:16:21 -0400 fix: corrige validacion
 2026-04-09T15:52:03 -0400 wip
 2026-04-09T16:03:04 -0400 chore: renombra variables
+2026-04-09T16:17:40 -0400 revert cambio anterior
