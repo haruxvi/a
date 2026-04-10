@@ -540,3 +540,4 @@
 2026-04-09T15:52:03 -0400 wip
 2026-04-09T16:03:04 -0400 chore: renombra variables
 2026-04-09T16:17:40 -0400 revert cambio anterior
+2026-04-10T11:38:10 -0400 chore: actualiza deps
