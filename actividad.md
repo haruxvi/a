@@ -544,3 +544,4 @@
 2026-04-10T12:00:38 -0400 style: formatea
 2026-04-10T12:32:01 -0400 feat: soporte para filtros
 2026-04-10T12:46:12 -0400 fix: ajusta margenes
+2026-04-13T11:38:35 -0400 perf: evita query extra
