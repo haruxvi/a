@@ -547,3 +547,4 @@
 2026-04-13T11:38:35 -0400 perf: evita query extra
 2026-04-13T12:03:32 -0400 revert cambio anterior
 2026-04-14T10:43:19 -0400 fix: typo
+2026-04-21T01:19:46 -0400 refactor: limpia helpers
