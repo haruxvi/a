@@ -550,3 +550,4 @@
 2026-04-21T01:19:46 -0400 refactor: limpia helpers
 2026-04-21T01:40:47 -0400 fix: ajusta margenes
 2026-04-24T15:22:33 -0400 docs: actualiza README
+2026-04-27T17:40:14 -0400 perf: evita query extra
