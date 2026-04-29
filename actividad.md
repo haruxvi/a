@@ -552,3 +552,4 @@
 2026-04-24T15:22:33 -0400 docs: actualiza README
 2026-04-27T17:40:14 -0400 perf: evita query extra
 2026-04-28T10:23:56 -0400 fix: manejo de error
+2026-04-29T17:03:13 -0400 perf: evita query extra
