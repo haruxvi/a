@@ -554,3 +554,4 @@
 2026-04-28T10:23:56 -0400 fix: manejo de error
 2026-04-29T17:03:13 -0400 perf: evita query extra
 2026-04-29T17:32:37 -0400 refactor: limpia helpers
+2026-05-06T10:42:26 -0400 fix: race condition
