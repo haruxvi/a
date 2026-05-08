@@ -556,3 +556,4 @@
 2026-04-29T17:32:37 -0400 refactor: limpia helpers
 2026-05-06T10:42:26 -0400 fix: race condition
 2026-05-06T11:13:23 -0400 fix: race condition
+2026-05-08T10:26:36 -0400 fix: null check
