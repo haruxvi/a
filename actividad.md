@@ -558,3 +558,4 @@
 2026-05-06T11:13:23 -0400 fix: race condition
 2026-05-08T10:26:36 -0400 fix: null check
 2026-05-08T11:06:09 -0400 fix: corrige validacion
+2026-05-10T19:30:53 -0400 refactor: limpia helpers
