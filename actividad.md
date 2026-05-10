@@ -559,3 +559,4 @@
 2026-05-08T10:26:36 -0400 fix: null check
 2026-05-08T11:06:09 -0400 fix: corrige validacion
 2026-05-10T19:30:53 -0400 refactor: limpia helpers
+2026-05-10T19:44:40 -0400 chore: borra codigo muerto
