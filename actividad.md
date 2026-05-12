@@ -563,3 +563,4 @@
 2026-05-10T20:10:11 -0400 perf: evita query extra
 2026-05-12T11:03:04 -0400 fix: null check
 2026-05-12T11:34:35 -0400 feat: soporte para filtros
+2026-05-12T12:11:42 -0400 feat: agrega endpoint
