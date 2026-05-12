@@ -564,3 +564,4 @@
 2026-05-12T11:03:04 -0400 fix: null check
 2026-05-12T11:34:35 -0400 feat: soporte para filtros
 2026-05-12T12:11:42 -0400 feat: agrega endpoint
+2026-05-12T12:18:38 -0400 wip
