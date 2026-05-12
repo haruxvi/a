@@ -568,3 +568,4 @@
 2026-05-12T12:49:32 -0400 chore: renombra variables
 2026-05-12T13:22:15 -0400 feat: agrega endpoint
 2026-05-12T13:44:51 -0400 test: cubre caso borde
+2026-05-12T14:02:01 -0400 fix: ajusta margenes
