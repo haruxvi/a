@@ -561,3 +561,4 @@
 2026-05-10T19:30:53 -0400 refactor: limpia helpers
 2026-05-10T19:44:40 -0400 chore: borra codigo muerto
 2026-05-10T20:10:11 -0400 perf: evita query extra
+2026-05-12T11:03:04 -0400 fix: null check
