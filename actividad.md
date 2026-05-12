@@ -572,3 +572,4 @@
 2026-05-12T14:23:27 -0400 docs: actualiza README
 2026-05-12T14:55:06 -0400 refactor: extrae funcion
 2026-05-12T15:29:54 -0400 feat: soporte para filtros
+2026-05-12T15:56:27 -0400 refactor: extrae funcion
