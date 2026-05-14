@@ -574,3 +574,4 @@
 2026-05-12T15:29:54 -0400 feat: soporte para filtros
 2026-05-12T15:56:27 -0400 refactor: extrae funcion
 2026-05-14T09:00:41 -0400 fix: ajusta margenes
+2026-05-14T09:03:32 -0400 feat: agrega endpoint
