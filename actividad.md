@@ -576,3 +576,4 @@
 2026-05-14T09:00:41 -0400 fix: ajusta margenes
 2026-05-14T09:03:32 -0400 feat: agrega endpoint
 2026-05-14T09:39:22 -0400 refactor: extrae funcion
+2026-05-15T15:44:16 -0400 chore: renombra variables
