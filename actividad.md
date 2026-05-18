@@ -578,3 +578,4 @@
 2026-05-14T09:39:22 -0400 refactor: extrae funcion
 2026-05-15T15:44:16 -0400 chore: renombra variables
 2026-05-15T16:24:20 -0400 fix: null check
+2026-05-17T20:00:01 -0400 refactor: limpia helpers
