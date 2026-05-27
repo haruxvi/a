@@ -583,3 +583,4 @@
 2026-05-26T21:29:21 -0400 docs: actualiza README
 2026-05-26T21:57:34 -0400 fix: manejo de error
 2026-05-26T22:11:43 -0400 chore: renombra variables
+2026-05-27T16:45:11 -0400 fix: null check
