@@ -585,3 +585,4 @@
 2026-05-26T22:11:43 -0400 chore: renombra variables
 2026-05-27T16:45:11 -0400 fix: null check
 2026-05-27T17:10:48 -0400 fix: corrige validacion
+2026-05-27T17:18:39 -0400 revert cambio anterior
