@@ -580,3 +580,4 @@
 2026-05-15T16:24:20 -0400 fix: null check
 2026-05-17T20:00:01 -0400 refactor: limpia helpers
 2026-05-25T11:45:41 -0400 chore: renombra variables
+2026-05-26T21:29:21 -0400 docs: actualiza README
