@@ -587,3 +587,4 @@
 2026-05-27T17:10:48 -0400 fix: corrige validacion
 2026-05-27T17:18:39 -0400 revert cambio anterior
 2026-05-28T17:04:02 -0400 wip
+2026-05-28T17:34:12 -0400 feat: agrega endpoint
