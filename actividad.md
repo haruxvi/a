@@ -589,3 +589,4 @@
 2026-05-28T17:04:02 -0400 wip
 2026-05-28T17:34:12 -0400 feat: agrega endpoint
 2026-05-28T17:54:17 -0400 wip
+2026-06-01T22:41:20 -0400 feat: soporte para filtros
