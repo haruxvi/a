@@ -591,3 +591,4 @@
 2026-05-28T17:54:17 -0400 wip
 2026-06-01T22:41:20 -0400 feat: soporte para filtros
 2026-06-03T15:17:20 -0400 fix: corrige validacion
+2026-06-03T15:27:31 -0400 perf: evita query extra
