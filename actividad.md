@@ -594,3 +594,4 @@
 2026-06-03T15:27:31 -0400 perf: evita query extra
 2026-06-03T15:50:51 -0400 revert cambio anterior
 2026-06-04T10:35:33 -0400 fix: ajusta margenes
+2026-06-04T10:47:59 -0400 chore: actualiza deps
