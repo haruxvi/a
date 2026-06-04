@@ -593,3 +593,4 @@
 2026-06-03T15:17:20 -0400 fix: corrige validacion
 2026-06-03T15:27:31 -0400 perf: evita query extra
 2026-06-03T15:50:51 -0400 revert cambio anterior
+2026-06-04T10:35:33 -0400 fix: ajusta margenes
