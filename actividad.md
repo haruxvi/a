@@ -599,3 +599,4 @@
 2026-06-05T22:33:27 -0400 revert cambio anterior
 2026-06-05T23:13:23 -0400 refactor: extrae funcion
 2026-06-05T23:53:26 -0400 perf: evita query extra
+2026-06-05T23:58:37 -0400 fix: ajusta margenes
