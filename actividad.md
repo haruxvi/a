@@ -604,3 +604,4 @@
 2026-06-06T22:12:16 -0400 perf: evita query extra
 2026-06-06T22:38:20 -0400 chore: actualiza deps
 2026-06-07T19:29:47 -0400 chore: borra codigo muerto
+2026-06-07T20:00:28 -0400 feat: soporte para filtros
