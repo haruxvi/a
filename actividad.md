@@ -607,3 +607,4 @@
 2026-06-07T20:00:28 -0400 feat: soporte para filtros
 2026-06-07T20:16:45 -0400 style: formatea
 2026-06-07T20:27:07 -0400 perf: evita query extra
+2026-06-07T20:56:03 -0400 fix: ajusta margenes
