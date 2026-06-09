@@ -612,3 +612,4 @@
 2026-06-08T17:44:08 -0400 revert cambio anterior
 2026-06-08T18:02:43 -0400 fix: typo
 2026-06-09T11:38:39 -0400 test: cubre caso borde
+2026-06-09T12:01:21 -0400 fix: race condition
