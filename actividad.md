@@ -611,3 +611,4 @@
 2026-06-07T21:00:37 -0400 feat: agrega endpoint
 2026-06-08T17:44:08 -0400 revert cambio anterior
 2026-06-08T18:02:43 -0400 fix: typo
+2026-06-09T11:38:39 -0400 test: cubre caso borde
