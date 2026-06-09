@@ -614,3 +614,4 @@
 2026-06-09T11:38:39 -0400 test: cubre caso borde
 2026-06-09T12:01:21 -0400 fix: race condition
 2026-06-09T12:21:16 -0400 fix: manejo de error
+2026-06-09T12:59:53 -0400 wip
