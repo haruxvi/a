@@ -615,3 +615,4 @@
 2026-06-09T12:01:21 -0400 fix: race condition
 2026-06-09T12:21:16 -0400 fix: manejo de error
 2026-06-09T12:59:53 -0400 wip
+2026-06-10T11:25:39 -0400 style: formatea
