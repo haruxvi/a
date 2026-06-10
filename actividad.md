@@ -618,3 +618,4 @@
 2026-06-10T11:25:39 -0400 style: formatea
 2026-06-10T11:38:11 -0400 docs: actualiza README
 2026-06-10T11:45:03 -0400 fix: typo
+2026-06-10T12:05:33 -0400 fix: manejo de error
