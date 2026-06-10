@@ -620,3 +620,4 @@
 2026-06-10T11:45:03 -0400 fix: typo
 2026-06-10T12:05:33 -0400 fix: manejo de error
 2026-06-10T12:15:46 -0400 chore: actualiza deps
+2026-06-10T12:34:21 -0400 style: formatea
