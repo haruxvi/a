@@ -626,3 +626,4 @@
 2026-06-11T11:26:00 -0400 wip
 2026-06-11T12:06:28 -0400 chore: actualiza deps
 2026-06-11T12:29:03 -0400 docs: actualiza README
+2026-06-11T12:42:30 -0400 chore: borra codigo muerto
