@@ -630,3 +630,4 @@
 2026-06-12T09:09:25 -0400 docs: actualiza README
 2026-06-12T09:18:42 -0400 wip
 2026-06-12T09:39:23 -0400 style: formatea
+2026-06-12T09:51:01 -0400 refactor: extrae funcion
