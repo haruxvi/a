@@ -635,3 +635,4 @@
 2026-06-14T21:12:57 -0400 style: formatea
 2026-06-14T21:33:21 -0400 refactor: extrae funcion
 2026-06-14T21:40:39 -0400 chore: actualiza deps
+2026-06-14T21:49:10 -0400 feat: agrega endpoint
