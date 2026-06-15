@@ -639,3 +639,4 @@
 2026-06-14T22:01:16 -0400 fix: ajusta margenes
 2026-06-15T15:33:23 -0400 fix: ajusta margenes
 2026-06-15T16:07:14 -0400 chore: borra codigo muerto
+2026-06-15T16:30:48 -0400 refactor: limpia helpers
