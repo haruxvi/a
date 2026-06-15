@@ -634,3 +634,4 @@
 2026-06-12T10:12:18 -0400 chore: renombra variables
 2026-06-14T21:12:57 -0400 style: formatea
 2026-06-14T21:33:21 -0400 refactor: extrae funcion
+2026-06-14T21:40:39 -0400 chore: actualiza deps
