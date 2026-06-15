@@ -637,3 +637,4 @@
 2026-06-14T21:40:39 -0400 chore: actualiza deps
 2026-06-14T21:49:10 -0400 feat: agrega endpoint
 2026-06-14T22:01:16 -0400 fix: ajusta margenes
+2026-06-15T15:33:23 -0400 fix: ajusta margenes
