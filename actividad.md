@@ -642,3 +642,4 @@
 2026-06-15T16:30:48 -0400 refactor: limpia helpers
 2026-06-16T10:02:45 -0400 style: formatea
 2026-06-16T10:10:42 -0400 fix: ajusta margenes
+2026-06-16T10:41:59 -0400 fix: typo
