@@ -644,3 +644,4 @@
 2026-06-16T10:10:42 -0400 fix: ajusta margenes
 2026-06-16T10:41:59 -0400 fix: typo
 2026-06-16T11:00:23 -0400 fix: typo
+2026-06-17T17:38:04 -0400 perf: evita query extra
