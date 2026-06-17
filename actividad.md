@@ -648,3 +648,4 @@
 2026-06-17T18:08:25 -0400 fix: typo
 2026-06-17T18:44:29 -0400 docs: actualiza README
 2026-06-17T18:49:24 -0400 fix: null check
+2026-06-17T19:12:27 -0400 perf: evita query extra
