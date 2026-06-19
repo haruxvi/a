@@ -654,3 +654,4 @@
 2026-06-18T22:02:00 -0400 test: cubre caso borde
 2026-06-19T11:10:09 -0400 refactor: limpia helpers
 2026-06-19T11:38:02 -0400 chore: renombra variables
+2026-06-19T12:08:01 -0400 fix: manejo de error
