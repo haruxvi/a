@@ -653,3 +653,4 @@
 2026-06-18T21:38:31 -0400 refactor: extrae funcion
 2026-06-18T22:02:00 -0400 test: cubre caso borde
 2026-06-19T11:10:09 -0400 refactor: limpia helpers
+2026-06-19T11:38:02 -0400 chore: renombra variables
