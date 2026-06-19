@@ -650,3 +650,4 @@
 2026-06-17T18:49:24 -0400 fix: null check
 2026-06-17T19:12:27 -0400 perf: evita query extra
 2026-06-18T21:32:20 -0400 test: cubre caso borde
+2026-06-18T21:38:31 -0400 refactor: extrae funcion
