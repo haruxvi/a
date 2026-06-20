@@ -656,3 +656,4 @@
 2026-06-19T11:38:02 -0400 chore: renombra variables
 2026-06-19T12:08:01 -0400 fix: manejo de error
 2026-06-20T17:21:41 -0400 docs: actualiza README
+2026-06-20T17:33:27 -0400 revert cambio anterior
