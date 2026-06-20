@@ -657,3 +657,4 @@
 2026-06-19T12:08:01 -0400 fix: manejo de error
 2026-06-20T17:21:41 -0400 docs: actualiza README
 2026-06-20T17:33:27 -0400 revert cambio anterior
+2026-06-20T17:41:31 -0400 test: cubre caso borde
