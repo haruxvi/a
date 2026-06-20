@@ -658,3 +658,4 @@
 2026-06-20T17:21:41 -0400 docs: actualiza README
 2026-06-20T17:33:27 -0400 revert cambio anterior
 2026-06-20T17:41:31 -0400 test: cubre caso borde
+2026-06-20T17:45:04 -0400 fix: null check
