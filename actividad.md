@@ -660,3 +660,4 @@
 2026-06-20T17:41:31 -0400 test: cubre caso borde
 2026-06-20T17:45:04 -0400 fix: null check
 2026-06-23T15:05:04 -0400 perf: evita query extra
+2026-06-23T15:18:40 -0400 fix: race condition
