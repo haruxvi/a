@@ -666,3 +666,4 @@
 2026-06-29T20:53:11 -0400 refactor: limpia helpers
 2026-06-29T21:26:35 -0400 perf: evita query extra
 2026-06-30T16:07:55 -0400 revert cambio anterior
+2026-06-30T16:30:07 -0400 refactor: limpia helpers
