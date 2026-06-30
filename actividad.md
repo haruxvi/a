@@ -662,3 +662,4 @@
 2026-06-23T15:05:04 -0400 perf: evita query extra
 2026-06-23T15:18:40 -0400 fix: race condition
 2026-06-29T20:44:04 -0400 fix: null check
+2026-06-29T20:48:03 -0400 feat: soporte para filtros
