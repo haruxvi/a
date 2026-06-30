@@ -664,3 +664,4 @@
 2026-06-29T20:44:04 -0400 fix: null check
 2026-06-29T20:48:03 -0400 feat: soporte para filtros
 2026-06-29T20:53:11 -0400 refactor: limpia helpers
+2026-06-29T21:26:35 -0400 perf: evita query extra
