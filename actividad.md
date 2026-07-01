@@ -668,3 +668,4 @@
 2026-06-30T16:07:55 -0400 revert cambio anterior
 2026-06-30T16:30:07 -0400 refactor: limpia helpers
 2026-07-01T16:40:30 -0400 fix: race condition
+2026-07-01T17:06:20 -0400 fix: race condition
