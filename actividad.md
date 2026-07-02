@@ -674,3 +674,4 @@
 2026-07-02T10:09:25 -0400 fix: manejo de error
 2026-07-02T10:42:35 -0400 fix: null check
 2026-07-02T11:10:03 -0400 test: cubre caso borde
+2026-07-02T11:37:55 -0400 test: cubre caso borde
