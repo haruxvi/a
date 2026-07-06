@@ -678,3 +678,4 @@
 2026-07-03T21:13:16 -0400 test: cubre caso borde
 2026-07-03T21:44:46 -0400 feat: soporte para filtros
 2026-07-05T19:08:06 -0400 chore: renombra variables
+2026-07-06T15:14:37 -0400 wip
