@@ -679,3 +679,4 @@
 2026-07-03T21:44:46 -0400 feat: soporte para filtros
 2026-07-05T19:08:06 -0400 chore: renombra variables
 2026-07-06T15:14:37 -0400 wip
+2026-07-08T20:15:10 -0400 docs: actualiza README
