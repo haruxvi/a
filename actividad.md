@@ -684,3 +684,4 @@
 2026-07-09T16:20:34 -0400 wip
 2026-07-10T17:24:07 -0400 revert cambio anterior
 2026-07-10T17:31:31 -0400 wip
+2026-07-10T17:40:08 -0400 feat: agrega endpoint
