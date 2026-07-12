@@ -686,3 +686,4 @@
 2026-07-10T17:31:31 -0400 wip
 2026-07-10T17:40:08 -0400 feat: agrega endpoint
 2026-07-10T18:10:09 -0400 chore: borra codigo muerto
+2026-07-12T18:06:41 -0400 chore: renombra variables
