@@ -690,3 +690,4 @@
 2026-07-13T22:07:43 -0400 feat: soporte para filtros
 2026-07-13T22:11:57 -0400 feat: agrega endpoint
 2026-07-13T22:15:43 -0400 fix: manejo de error
+2026-07-14T09:37:20 -0400 fix: null check
