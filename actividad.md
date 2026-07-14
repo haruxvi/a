@@ -693,3 +693,4 @@
 2026-07-14T09:37:20 -0400 fix: null check
 2026-07-14T09:47:38 -0400 style: formatea
 2026-07-14T10:23:01 -0400 perf: evita query extra
+2026-07-14T10:52:08 -0400 refactor: extrae funcion
