@@ -700,3 +700,4 @@
 2026-07-15T17:49:03 -0400 fix: race condition
 2026-07-15T17:52:50 -0400 chore: borra codigo muerto
 2026-07-15T18:08:46 -0400 feat: soporte para filtros
+2026-07-15T18:46:10 -0400 fix: null check
