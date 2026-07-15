@@ -698,3 +698,4 @@
 2026-07-14T11:43:31 -0400 refactor: limpia helpers
 2026-07-15T17:32:11 -0400 chore: actualiza deps
 2026-07-15T17:49:03 -0400 fix: race condition
+2026-07-15T17:52:50 -0400 chore: borra codigo muerto
