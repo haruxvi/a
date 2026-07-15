@@ -699,3 +699,4 @@
 2026-07-15T17:32:11 -0400 chore: actualiza deps
 2026-07-15T17:49:03 -0400 fix: race condition
 2026-07-15T17:52:50 -0400 chore: borra codigo muerto
+2026-07-15T18:08:46 -0400 feat: soporte para filtros
