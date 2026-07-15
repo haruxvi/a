@@ -696,3 +696,4 @@
 2026-07-14T10:52:08 -0400 refactor: extrae funcion
 2026-07-14T11:31:24 -0400 refactor: extrae funcion
 2026-07-14T11:43:31 -0400 refactor: limpia helpers
+2026-07-15T17:32:11 -0400 chore: actualiza deps
