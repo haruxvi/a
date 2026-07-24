@@ -705,3 +705,4 @@
 2026-07-20T11:09:18 -0400 style: formatea
 2026-07-20T11:28:47 -0400 chore: renombra variables
 2026-07-24T15:02:01 -0400 wip
+2026-07-24T15:24:51 -0400 perf: evita query extra
