@@ -704,3 +704,4 @@
 2026-07-15T19:01:19 -0400 docs: actualiza README
 2026-07-20T11:09:18 -0400 style: formatea
 2026-07-20T11:28:47 -0400 chore: renombra variables
+2026-07-24T15:02:01 -0400 wip
