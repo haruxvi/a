@@ -709,3 +709,4 @@
 2026-07-27T17:38:41 -0400 refactor: limpia helpers
 2026-07-27T17:44:19 -0400 revert cambio anterior
 2026-07-27T18:08:25 -0400 fix: race condition
+2026-07-27T18:47:15 -0400 perf: evita query extra
