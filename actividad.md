@@ -710,3 +710,4 @@
 2026-07-27T17:44:19 -0400 revert cambio anterior
 2026-07-27T18:08:25 -0400 fix: race condition
 2026-07-27T18:47:15 -0400 perf: evita query extra
+2026-07-27T19:23:03 -0400 feat: soporte para filtros
