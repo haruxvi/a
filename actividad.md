@@ -714,3 +714,4 @@
 2026-07-28T21:07:16 -0400 feat: agrega endpoint
 2026-07-28T21:17:43 -0400 fix: typo
 2026-07-28T21:32:50 -0400 fix: ajusta margenes
+2026-07-29T16:03:39 -0400 refactor: limpia helpers
