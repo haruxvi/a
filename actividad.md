@@ -718,3 +718,4 @@
 2026-07-29T16:28:02 -0400 fix: ajusta margenes
 2026-07-29T17:05:25 -0400 fix: manejo de error
 2026-07-29T17:26:39 -0400 refactor: extrae funcion
+2026-07-29T18:05:00 -0400 chore: actualiza deps
