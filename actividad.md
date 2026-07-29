@@ -713,3 +713,4 @@
 2026-07-27T19:23:03 -0400 feat: soporte para filtros
 2026-07-28T21:07:16 -0400 feat: agrega endpoint
 2026-07-28T21:17:43 -0400 fix: typo
+2026-07-28T21:32:50 -0400 fix: ajusta margenes
