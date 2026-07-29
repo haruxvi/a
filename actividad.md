@@ -712,3 +712,4 @@
 2026-07-27T18:47:15 -0400 perf: evita query extra
 2026-07-27T19:23:03 -0400 feat: soporte para filtros
 2026-07-28T21:07:16 -0400 feat: agrega endpoint
+2026-07-28T21:17:43 -0400 fix: typo
