@@ -720,3 +720,4 @@
 2026-07-29T17:26:39 -0400 refactor: extrae funcion
 2026-07-29T18:05:00 -0400 chore: actualiza deps
 2026-07-29T18:15:27 -0400 feat: agrega endpoint
+2026-07-29T18:22:00 -0400 fix: corrige validacion
