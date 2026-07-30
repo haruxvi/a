@@ -727,3 +727,4 @@
 2026-07-30T13:15:06 -0400 refactor: extrae funcion
 2026-07-30T13:26:47 -0400 chore: actualiza deps
 2026-07-30T13:56:52 -0400 chore: renombra variables
+2026-07-30T13:59:58 -0400 perf: evita query extra
