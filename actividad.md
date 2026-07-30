@@ -721,3 +721,4 @@
 2026-07-29T18:05:00 -0400 chore: actualiza deps
 2026-07-29T18:15:27 -0400 feat: agrega endpoint
 2026-07-29T18:22:00 -0400 fix: corrige validacion
+2026-07-30T12:25:31 -0400 fix: corrige validacion
