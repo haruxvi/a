@@ -736,3 +736,4 @@
 2026-07-31T11:18:12 -0400 chore: renombra variables
 2026-07-31T11:32:05 -0400 wip
 2026-07-31T11:57:26 -0400 chore: actualiza deps
+2026-07-31T12:15:15 -0400 chore: borra codigo muerto
