@@ -731,3 +731,4 @@
 2026-07-30T14:15:58 -0400 fix: manejo de error
 2026-07-31T10:31:11 -0400 style: formatea
 2026-07-31T10:56:53 -0400 test: cubre caso borde
+2026-07-31T11:09:18 -0400 test: cubre caso borde
