@@ -730,3 +730,4 @@
 2026-07-30T13:59:58 -0400 perf: evita query extra
 2026-07-30T14:15:58 -0400 fix: manejo de error
 2026-07-31T10:31:11 -0400 style: formatea
+2026-07-31T10:56:53 -0400 test: cubre caso borde
