@@ -739,3 +739,4 @@
 2026-07-31T12:15:15 -0400 chore: borra codigo muerto
 2026-08-04T09:41:09 -0400 perf: evita query extra
 2026-08-04T09:54:38 -0400 chore: borra codigo muerto
+2026-08-04T10:02:08 -0400 chore: actualiza deps
