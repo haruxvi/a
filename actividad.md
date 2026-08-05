@@ -741,3 +741,4 @@
 2026-08-04T09:54:38 -0400 chore: borra codigo muerto
 2026-08-04T10:02:08 -0400 chore: actualiza deps
 2026-08-05T10:10:04 -0400 chore: borra codigo muerto
+2026-08-05T10:31:03 -0400 refactor: extrae funcion
