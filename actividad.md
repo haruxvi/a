@@ -744,3 +744,4 @@
 2026-08-05T10:31:03 -0400 refactor: extrae funcion
 2026-08-05T10:35:20 -0400 fix: typo
 2026-08-08T14:17:29 -0400 revert cambio anterior
+2026-08-08T14:45:20 -0400 test: cubre caso borde
