@@ -749,3 +749,4 @@
 2026-08-09T17:47:42 -0400 perf: evita query extra
 2026-08-09T17:59:27 -0400 fix: race condition
 2026-08-11T20:14:16 -0400 wip
+2026-08-11T20:33:13 -0400 refactor: limpia helpers
