@@ -766,3 +766,4 @@
 2026-08-13T14:41:46 -0400 chore: borra codigo muerto
 2026-08-13T14:57:28 -0400 style: formatea
 2026-08-13T15:30:24 -0400 fix: null check
+2026-08-13T15:59:59 -0400 fix: race condition
