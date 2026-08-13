@@ -761,3 +761,4 @@
 2026-08-13T12:26:17 -0400 docs: actualiza README
 2026-08-13T13:02:22 -0400 style: formatea
 2026-08-13T13:32:14 -0400 feat: soporte para filtros
+2026-08-13T13:46:56 -0400 chore: renombra variables
