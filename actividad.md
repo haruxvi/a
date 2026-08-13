@@ -753,3 +753,4 @@
 2026-08-11T20:38:08 -0400 wip
 2026-08-11T20:46:00 -0400 fix: race condition
 2026-08-11T21:03:03 -0400 chore: actualiza deps
+2026-08-12T20:40:13 -0400 feat: soporte para filtros
