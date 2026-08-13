@@ -762,3 +762,4 @@
 2026-08-13T13:02:22 -0400 style: formatea
 2026-08-13T13:32:14 -0400 feat: soporte para filtros
 2026-08-13T13:46:56 -0400 chore: renombra variables
+2026-08-13T14:26:42 -0400 fix: null check
