@@ -755,3 +755,4 @@
 2026-08-11T21:03:03 -0400 chore: actualiza deps
 2026-08-12T20:40:13 -0400 feat: soporte para filtros
 2026-08-12T20:59:55 -0400 style: formatea
+2026-08-12T21:05:31 -0400 docs: actualiza README
