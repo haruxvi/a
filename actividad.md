@@ -757,3 +757,4 @@
 2026-08-12T20:59:55 -0400 style: formatea
 2026-08-12T21:05:31 -0400 docs: actualiza README
 2026-08-13T11:44:19 -0400 refactor: extrae funcion
+2026-08-13T11:53:32 -0400 test: cubre caso borde
