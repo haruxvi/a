@@ -768,3 +768,4 @@
 2026-08-13T15:30:24 -0400 fix: null check
 2026-08-13T15:59:59 -0400 fix: race condition
 2026-08-13T16:26:28 -0400 docs: actualiza README
+2026-08-14T20:18:26 -0400 docs: actualiza README
