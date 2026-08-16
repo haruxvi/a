@@ -770,3 +770,4 @@
 2026-08-13T16:26:28 -0400 docs: actualiza README
 2026-08-14T20:18:26 -0400 docs: actualiza README
 2026-08-14T20:32:55 -0400 style: formatea
+2026-08-16T16:45:55 -0400 feat: agrega endpoint
