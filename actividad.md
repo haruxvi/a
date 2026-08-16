@@ -772,3 +772,4 @@
 2026-08-14T20:32:55 -0400 style: formatea
 2026-08-16T16:45:55 -0400 feat: agrega endpoint
 2026-08-16T17:09:17 -0400 perf: evita query extra
+2026-08-16T17:32:24 -0400 fix: ajusta margenes
