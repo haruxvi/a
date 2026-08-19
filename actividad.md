@@ -774,3 +774,4 @@
 2026-08-16T17:09:17 -0400 perf: evita query extra
 2026-08-16T17:32:24 -0400 fix: ajusta margenes
 2026-08-19T09:02:51 -0400 wip
+2026-08-19T09:27:05 -0400 perf: evita query extra
