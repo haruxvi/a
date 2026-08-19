@@ -773,3 +773,4 @@
 2026-08-16T16:45:55 -0400 feat: agrega endpoint
 2026-08-16T17:09:17 -0400 perf: evita query extra
 2026-08-16T17:32:24 -0400 fix: ajusta margenes
+2026-08-19T09:02:51 -0400 wip
