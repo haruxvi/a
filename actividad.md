@@ -779,3 +779,4 @@
 2026-08-26T16:23:13 -0400 fix: ajusta margenes
 2026-08-26T16:46:41 -0400 feat: agrega endpoint
 2026-08-26T16:56:34 -0400 fix: corrige validacion
+2026-08-26T17:18:13 -0400 docs: actualiza README
