@@ -778,3 +778,4 @@
 2026-08-20T16:45:19 -0400 style: formatea
 2026-08-26T16:23:13 -0400 fix: ajusta margenes
 2026-08-26T16:46:41 -0400 feat: agrega endpoint
+2026-08-26T16:56:34 -0400 fix: corrige validacion
