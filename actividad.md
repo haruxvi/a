@@ -776,3 +776,4 @@
 2026-08-19T09:02:51 -0400 wip
 2026-08-19T09:27:05 -0400 perf: evita query extra
 2026-08-20T16:45:19 -0400 style: formatea
+2026-08-26T16:23:13 -0400 fix: ajusta margenes
