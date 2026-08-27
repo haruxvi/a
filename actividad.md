@@ -781,3 +781,4 @@
 2026-08-26T16:56:34 -0400 fix: corrige validacion
 2026-08-26T17:18:13 -0400 docs: actualiza README
 2026-08-26T17:45:51 -0400 fix: typo
+2026-08-27T10:31:50 -0400 fix: manejo de error
