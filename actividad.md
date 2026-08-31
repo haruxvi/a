@@ -785,3 +785,4 @@
 2026-08-28T20:41:17 -0400 feat: agrega endpoint
 2026-08-28T21:06:10 -0400 fix: manejo de error
 2026-08-31T17:22:15 -0400 style: formatea
+2026-08-31T17:39:33 -0400 wip
